@@ -1,0 +1,764 @@
+﻿Date,CampaignID,CampaignName,Platform,TargetAudience,Impressions,Clicks,Leads,Applications,Enrollments,Cost (₹),Revenue (₹),Region
+2024-01-01,AD004,Hackathon,YouTube,17–21 Age,285708,16956,4087,2547,1148,"₹ 275,458","₹ 4,615,838",West India
+2024-01-02,AD004,Hackathon,YouTube,17–21 Age,140449,10082,1815,951,565,"₹ 133,026","₹ 3,513,170",North India
+2024-01-03,AD004,Hackathon,YouTube,17–21 Age,140958,7474,1169,683,343,"₹ 135,766","₹ 1,051,925",North India
+2024-01-04,AD004,Hackathon,YouTube,22–27 Age,257823,16841,3179,1584,698,"₹ 229,715","₹ 3,850,640",West India
+2024-01-05,AD004,Hackathon,YouTube,25–35 Age,98595,7293,1340,854,368,"₹ 52,361","₹ 1,543,263",West India
+2024-01-06,AD004,Hackathon,YouTube,22–27 Age,68114,5377,909,505,222,"₹ 27,454","₹ 1,717,164",North India
+2024-01-07,AD004,Hackathon,YouTube,17–21 Age,175572,6855,1452,757,346,"₹ 95,498","₹ 2,598,808",East India
+2024-01-08,AD004,Hackathon,YouTube,22–27 Age,231966,9373,1934,1247,553,"₹ 175,649","₹ 2,558,956",West India
+2024-01-09,AD004,Hackathon,YouTube,17–21 Age,281339,12310,2329,1319,734,"₹ 126,724","₹ 4,265,725",West India
+2024-01-10,AD004,Hackathon,YouTube,22–27 Age,98805,6952,1479,955,455,"₹ 49,446","₹ 3,012,430",North India
+2024-01-11,AD004,Hackathon,YouTube,25–35 Age,144093,11451,1776,934,480,"₹ 104,177","₹ 1,723,114",North India
+2024-01-12,AD004,Hackathon,YouTube,25–35 Age,158894,6588,1470,867,405,"₹ 102,314","₹ 3,080,880",Pan India
+2024-01-13,AD004,Hackathon,YouTube,25–35 Age,66250,4921,871,392,210,"₹ 51,284","₹ 1,495,426",North India
+2024-01-14,AD004,Hackathon,YouTube,25–35 Age,146445,6570,1466,803,436,"₹ 60,478","₹ 2,107,164",West India
+2024-01-15,AD004,Hackathon,YouTube,22–27 Age,95097,7359,1754,1030,512,"₹ 47,008","₹ 2,174,798",South India
+2024-01-16,AD004,Hackathon,YouTube,17–21 Age,234993,13461,2316,1322,778,"₹ 118,804","₹ 3,598,638",South India
+2024-01-17,AD004,Hackathon,YouTube,25–35 Age,72601,4823,859,471,224,"₹ 65,232","₹ 1,540,858",West India
+2024-01-18,AD004,Hackathon,YouTube,17–21 Age,64854,3268,774,379,187,"₹ 29,838","₹ 1,134,935",South India
+2024-01-19,AD004,Hackathon,YouTube,25–35 Age,140767,7435,1316,748,419,"₹ 134,778","₹ 2,166,219",Pan India
+2024-01-20,AD004,Hackathon,YouTube,22–27 Age,102564,4036,954,619,352,"₹ 51,435","₹ 2,739,138",West India
+2024-01-21,AD004,Hackathon,YouTube,25–35 Age,99366,6149,1025,585,331,"₹ 39,929","₹ 2,041,494",East India
+2024-01-22,AD004,Hackathon,YouTube,17–21 Age,130732,9877,1815,1127,550,"₹ 65,158","₹ 2,707,317",Pan India
+2024-01-23,AD004,Hackathon,YouTube,22–27 Age,60282,3890,823,440,184,"₹ 50,618","₹ 1,332,251",East India
+2024-01-24,AD004,Hackathon,YouTube,22–27 Age,227987,9955,2151,1233,739,"₹ 116,682","₹ 4,318,919",North India
+2024-01-25,AD004,Hackathon,YouTube,22–27 Age,272168,16989,3561,1864,959,"₹ 166,206","₹ 4,449,883",West India
+2024-01-26,AD004,Hackathon,YouTube,17–21 Age,264817,10684,1820,1080,558,"₹ 178,964","₹ 2,959,112",North India
+2024-01-27,AD004,Hackathon,YouTube,22–27 Age,296970,16468,3817,2120,1220,"₹ 288,391","₹ 6,571,499",Pan India
+2024-01-28,AD004,Hackathon,YouTube,25–35 Age,280154,13508,2070,1200,490,"₹ 258,351","₹ 2,606,825",West India
+2024-01-29,AD004,Hackathon,YouTube,17–21 Age,246082,9319,1989,960,442,"₹ 195,337","₹ 2,170,311",East India
+2024-01-30,AD004,Hackathon,YouTube,25–35 Age,162479,9378,2210,1154,604,"₹ 157,518","₹ 4,429,720",Pan India
+2024-01-31,AD004,Hackathon,YouTube,22–27 Age,256182,17232,3397,1850,871,"₹ 212,839","₹ 3,579,678",South India
+2024-02-01,AD004,Hackathon,YouTube,22–27 Age,269710,19961,3100,1479,780,"₹ 108,988","₹ 2,698,692",South India
+2024-02-02,AD004,Hackathon,YouTube,17–21 Age,85354,4637,948,471,279,"₹ 39,467","₹ 1,069,478",Pan India
+2024-02-03,AD004,Hackathon,YouTube,17–21 Age,96853,3046,699,327,162,"₹ 53,821","₹ 868,490",North India
+2024-02-04,AD004,Hackathon,YouTube,17–21 Age,251547,15827,2989,1925,804,"₹ 123,903","₹ 5,851,415",West India
+2024-02-05,AD004,Hackathon,YouTube,17–21 Age,189912,12514,2711,1616,890,"₹ 132,682","₹ 5,279,957",North India
+2024-02-06,AD004,Hackathon,YouTube,25–35 Age,202653,7479,1790,1010,592,"₹ 93,099","₹ 3,172,504",West India
+2024-02-07,AD004,Hackathon,YouTube,17–21 Age,72831,5085,1192,648,367,"₹ 65,890","₹ 2,806,227",West India
+2024-02-08,AD004,Hackathon,YouTube,25–35 Age,215776,15117,2292,1195,520,"₹ 203,852","₹ 3,424,735",East India
+2024-02-09,AD004,Hackathon,YouTube,17–21 Age,72443,3074,557,275,119,"₹ 67,538","₹ 364,638",South India
+2024-02-10,AD004,Hackathon,YouTube,25–35 Age,155169,10534,1826,964,488,"₹ 65,549","₹ 2,007,650",South India
+2024-02-11,AD004,Hackathon,YouTube,17–21 Age,145600,10817,2620,1253,628,"₹ 143,250","₹ 3,766,197",Pan India
+2024-02-12,AD004,Hackathon,YouTube,22–27 Age,235449,17901,3572,1970,869,"₹ 156,170","₹ 3,779,197",East India
+2024-02-13,AD004,Hackathon,YouTube,25–35 Age,92082,5873,1376,740,425,"₹ 72,925","₹ 2,747,864",North India
+2024-02-14,AD004,Hackathon,YouTube,22–27 Age,69767,4894,1047,585,275,"₹ 47,792","₹ 2,145,764",Pan India
+2024-02-15,AD004,Hackathon,YouTube,17–21 Age,131440,4550,1063,659,286,"₹ 119,991","₹ 1,990,224",East India
+2024-02-16,AD004,Hackathon,YouTube,25–35 Age,281475,14540,2460,1239,519,"₹ 112,655","₹ 3,920,124",South India
+2024-02-17,AD004,Hackathon,YouTube,17–21 Age,138904,6550,1548,797,435,"₹ 128,171","₹ 3,043,169",South India
+2024-02-18,AD004,Hackathon,YouTube,25–35 Age,294254,13308,3157,1809,752,"₹ 251,733","₹ 4,143,707",Pan India
+2024-02-19,AD004,Hackathon,YouTube,17–21 Age,176880,12551,2597,1551,905,"₹ 165,229","₹ 3,242,545",South India
+2024-02-20,AD004,Hackathon,YouTube,25–35 Age,135158,10392,2062,977,480,"₹ 101,398","₹ 1,965,140",North India
+2024-02-21,AD004,Hackathon,YouTube,22–27 Age,236532,17823,2773,1664,752,"₹ 209,088","₹ 2,447,522",Pan India
+2024-02-22,AD004,Hackathon,YouTube,17–21 Age,279307,12903,2336,1311,548,"₹ 265,211","₹ 3,931,416",North India
+2024-02-23,AD004,Hackathon,YouTube,17–21 Age,51984,2911,604,374,222,"₹ 27,008","₹ 1,729,749",South India
+2024-02-24,AD004,Hackathon,YouTube,25–35 Age,103947,7149,1414,811,375,"₹ 55,024","₹ 1,623,226",South India
+2024-02-25,AD004,Hackathon,YouTube,22–27 Age,61783,3786,675,431,230,"₹ 48,713","₹ 1,095,171",East India
+2024-02-26,AD004,Hackathon,YouTube,25–35 Age,211522,8146,1649,828,347,"₹ 139,232","₹ 1,343,596",East India
+2024-02-27,AD004,Hackathon,YouTube,22–27 Age,55880,1910,340,220,103,"₹ 40,730","₹ 486,884",South India
+2024-02-28,AD004,Hackathon,YouTube,17–21 Age,167535,11504,2177,1304,556,"₹ 110,297","₹ 4,174,013",West India
+2024-02-29,AD004,Hackathon,YouTube,25–35 Age,206944,15993,2610,1657,747,"₹ 170,089","₹ 2,704,688",West India
+2024-03-01,AD001,UG Admission,Google Ads,17–21 Age,86043,5121,1032,663,383,"₹ 84,842","₹ 2,067,524",Pan India
+2024-03-01,AD004,Hackathon,YouTube,22–27 Age,238624,16826,3034,1553,882,"₹ 121,440","₹ 5,523,180",East India
+2024-03-02,AD001,UG Admission,Google Ads,17–21 Age,106383,8132,1989,1180,597,"₹ 68,121","₹ 4,167,141",South India
+2024-03-02,AD004,Hackathon,YouTube,25–35 Age,137353,10177,1561,926,440,"₹ 62,507","₹ 2,300,982",Pan India
+2024-03-03,AD001,UG Admission,Google Ads,17–21 Age,190183,9911,2343,1331,712,"₹ 170,515","₹ 2,633,312",North India
+2024-03-03,AD004,Hackathon,YouTube,17–21 Age,248339,16962,3496,1806,789,"₹ 175,686","₹ 2,908,345",East India
+2024-03-04,AD001,UG Admission,Google Ads,17–21 Age,151825,7293,1728,1114,497,"₹ 76,966","₹ 3,527,269",West India
+2024-03-04,AD004,Hackathon,YouTube,17–21 Age,56983,2037,418,208,123,"₹ 53,252","₹ 737,803",Pan India
+2024-03-05,AD001,UG Admission,Google Ads,17–21 Age,70110,3013,750,468,238,"₹ 52,948","₹ 1,892,178",South India
+2024-03-05,AD004,Hackathon,YouTube,22–27 Age,161034,5095,881,462,224,"₹ 84,019","₹ 923,164",South India
+2024-03-06,AD001,UG Admission,Google Ads,17–21 Age,127872,7698,1526,763,381,"₹ 116,041","₹ 2,303,108",Pan India
+2024-03-06,AD004,Hackathon,YouTube,17–21 Age,207444,12055,2103,1256,542,"₹ 112,400","₹ 2,091,662",North India
+2024-03-07,AD001,UG Admission,Google Ads,17–21 Age,125458,8435,1509,693,366,"₹ 66,260","₹ 2,398,363",West India
+2024-03-07,AD004,Hackathon,YouTube,25–35 Age,125186,5438,1013,516,288,"₹ 70,257","₹ 1,655,474",East India
+2024-03-08,AD001,UG Admission,Google Ads,17–21 Age,52749,3113,594,267,132,"₹ 47,097","₹ 644,766",West India
+2024-03-08,AD004,Hackathon,YouTube,17–21 Age,153379,7139,1663,957,429,"₹ 102,014","₹ 1,463,625",South India
+2024-03-09,AD001,UG Admission,Google Ads,17–21 Age,55614,3540,572,343,154,"₹ 36,079","₹ 646,247",North India
+2024-03-09,AD004,Hackathon,YouTube,17–21 Age,123685,8520,2108,1010,406,"₹ 122,048","₹ 1,454,477",South India
+2024-03-10,AD001,UG Admission,Google Ads,17–21 Age,160586,9019,1457,790,427,"₹ 118,320","₹ 2,536,805",North India
+2024-03-10,AD004,Hackathon,YouTube,25–35 Age,226639,12635,2302,1218,650,"₹ 199,476","₹ 3,964,941",Pan India
+2024-03-11,AD001,UG Admission,Google Ads,17–21 Age,73407,5606,883,498,256,"₹ 70,483","₹ 1,018,846",West India
+2024-03-11,AD004,Hackathon,YouTube,22–27 Age,213309,8042,1913,1209,533,"₹ 164,270","₹ 4,063,881",North India
+2024-03-12,AD001,UG Admission,Google Ads,17–21 Age,216597,15507,2335,1445,726,"₹ 192,462","₹ 2,305,973",North India
+2024-03-12,AD004,Hackathon,YouTube,25–35 Age,226506,7970,1292,750,420,"₹ 175,995","₹ 2,066,587",Pan India
+2024-03-13,AD001,UG Admission,Google Ads,17–21 Age,175194,5344,957,551,261,"₹ 169,204","₹ 976,767",West India
+2024-03-13,AD004,Hackathon,YouTube,22–27 Age,185895,10159,1559,796,319,"₹ 152,447","₹ 2,203,004",East India
+2024-03-14,AD001,UG Admission,Google Ads,17–21 Age,188495,10549,1800,1004,441,"₹ 182,807","₹ 2,268,459",West India
+2024-03-14,AD004,Hackathon,YouTube,22–27 Age,61348,4749,863,560,278,"₹ 41,335","₹ 2,016,293",Pan India
+2024-03-15,AD001,UG Admission,Google Ads,17–21 Age,100344,8008,1473,816,424,"₹ 77,930","₹ 1,344,335",East India
+2024-03-15,AD004,Hackathon,YouTube,22–27 Age,194652,12957,2628,1452,793,"₹ 188,269","₹ 5,847,270",East India
+2024-03-16,AD001,UG Admission,Google Ads,17–21 Age,275868,10436,1877,1023,453,"₹ 133,645","₹ 2,895,845",West India
+2024-03-16,AD004,Hackathon,YouTube,22–27 Age,144241,6954,1273,706,292,"₹ 70,142","₹ 1,034,342",East India
+2024-03-17,AD001,UG Admission,Google Ads,17–21 Age,292584,23331,3605,1899,921,"₹ 169,598","₹ 3,162,279",West India
+2024-03-17,AD004,Hackathon,YouTube,25–35 Age,117460,8173,1756,887,365,"₹ 93,791","₹ 1,580,107",South India
+2024-03-18,AD001,UG Admission,Google Ads,17–21 Age,160356,10619,2317,1167,687,"₹ 89,639","₹ 4,671,783",South India
+2024-03-18,AD004,Hackathon,YouTube,17–21 Age,58163,3769,797,395,178,"₹ 25,555","₹ 1,293,768",North India
+2024-03-19,AD001,UG Admission,Google Ads,17–21 Age,172256,8896,2048,985,576,"₹ 152,568","₹ 1,915,390",East India
+2024-03-19,AD004,Hackathon,YouTube,17–21 Age,258133,14755,2438,1536,617,"₹ 103,656","₹ 4,524,609",South India
+2024-03-20,AD001,UG Admission,Google Ads,17–21 Age,203648,8947,1995,1108,625,"₹ 126,624","₹ 3,738,990",South India
+2024-03-20,AD004,Hackathon,YouTube,22–27 Age,219527,10693,1929,990,415,"₹ 203,424","₹ 2,119,680",South India
+2024-03-21,AD001,UG Admission,Google Ads,17–21 Age,85480,4749,1166,617,295,"₹ 77,653","₹ 1,845,722",North India
+2024-03-21,AD004,Hackathon,YouTube,17–21 Age,284030,14236,2183,1152,592,"₹ 262,334","₹ 2,663,780",North India
+2024-03-22,AD001,UG Admission,Google Ads,17–21 Age,298776,13733,2795,1309,703,"₹ 212,230","₹ 5,350,896",West India
+2024-03-22,AD004,Hackathon,YouTube,22–27 Age,64434,3679,729,397,235,"₹ 59,042","₹ 1,242,049",Pan India
+2024-03-23,AD001,UG Admission,Google Ads,17–21 Age,245366,12959,2802,1515,836,"₹ 241,060","₹ 6,091,994",North India
+2024-03-23,AD004,Hackathon,YouTube,25–35 Age,53724,1683,344,159,73,"₹ 49,801","₹ 513,710",South India
+2024-03-24,AD001,UG Admission,Google Ads,17–21 Age,240769,8468,1835,987,400,"₹ 145,335","₹ 2,921,642",South India
+2024-03-24,AD004,Hackathon,YouTube,17–21 Age,79876,4171,757,434,226,"₹ 75,946","₹ 1,660,036",North India
+2024-03-25,AD001,UG Admission,Google Ads,17–21 Age,122186,5865,1463,777,313,"₹ 54,950","₹ 1,100,080",South India
+2024-03-25,AD004,Hackathon,YouTube,17–21 Age,199247,9891,2264,1217,616,"₹ 105,185","₹ 4,785,145",East India
+2024-03-26,AD001,UG Admission,Google Ads,17–21 Age,274044,13557,2893,1644,828,"₹ 131,708","₹ 6,173,760",North India
+2024-03-26,AD004,Hackathon,YouTube,22–27 Age,244500,9131,2098,1346,655,"₹ 146,176","₹ 3,464,552",East India
+2024-03-27,AD001,UG Admission,Google Ads,17–21 Age,75569,3044,699,363,210,"₹ 43,169","₹ 954,212",Pan India
+2024-03-27,AD004,Hackathon,YouTube,17–21 Age,62090,3649,636,301,174,"₹ 58,687","₹ 569,195",South India
+2024-03-28,AD001,UG Admission,Google Ads,17–21 Age,151614,5544,1000,552,221,"₹ 66,294","₹ 838,838",South India
+2024-03-28,AD004,Hackathon,YouTube,17–21 Age,275576,19381,2993,1920,883,"₹ 152,034","₹ 2,850,576",Pan India
+2024-03-29,AD001,UG Admission,Google Ads,17–21 Age,128767,7454,1142,540,253,"₹ 99,239","₹ 960,812",West India
+2024-03-29,AD004,Hackathon,YouTube,25–35 Age,94022,2854,695,411,192,"₹ 58,117","₹ 1,323,998",North India
+2024-03-30,AD001,UG Admission,Google Ads,17–21 Age,168427,7496,1354,707,399,"₹ 121,005","₹ 2,780,010",North India
+2024-03-30,AD004,Hackathon,YouTube,17–21 Age,153437,5657,1049,519,211,"₹ 147,977","₹ 1,161,334",East India
+2024-03-31,AD001,UG Admission,Google Ads,17–21 Age,80636,5687,1072,607,344,"₹ 59,285","₹ 2,288,813",East India
+2024-03-31,AD004,Hackathon,YouTube,25–35 Age,158630,4927,822,475,264,"₹ 141,499","₹ 1,140,876",East India
+2024-04-01,AD001,UG Admission,Google Ads,17–21 Age,186499,6536,1354,621,368,"₹ 85,229","₹ 2,637,714",West India
+2024-04-02,AD001,UG Admission,Google Ads,17–21 Age,280440,19647,3222,1784,885,"₹ 254,339","₹ 4,246,093",North India
+2024-04-03,AD001,UG Admission,Google Ads,17–21 Age,79911,2837,458,283,153,"₹ 34,959","₹ 584,663",South India
+2024-04-04,AD001,UG Admission,Google Ads,17–21 Age,274653,14146,2816,1386,561,"₹ 208,104","₹ 3,892,838",West India
+2024-04-05,AD001,UG Admission,Google Ads,17–21 Age,165340,10645,1684,807,389,"₹ 129,203","₹ 3,018,743",West India
+2024-04-06,AD001,UG Admission,Google Ads,17–21 Age,282778,15067,2772,1717,949,"₹ 219,848","₹ 5,156,799",West India
+2024-04-07,AD001,UG Admission,Google Ads,17–21 Age,285987,22561,5121,2466,1091,"₹ 146,348","₹ 3,872,315",Pan India
+2024-04-08,AD001,UG Admission,Google Ads,17–21 Age,200034,14443,3338,1578,716,"₹ 189,342","₹ 5,411,519",Pan India
+2024-04-09,AD001,UG Admission,Google Ads,17–21 Age,114098,4796,979,559,277,"₹ 95,245","₹ 1,500,707",Pan India
+2024-04-10,AD001,UG Admission,Google Ads,17–21 Age,230730,8044,1273,591,285,"₹ 100,418","₹ 2,085,502",North India
+2024-04-11,AD001,UG Admission,Google Ads,17–21 Age,221570,12355,2256,1301,521,"₹ 200,218","₹ 2,522,441",Pan India
+2024-04-12,AD001,UG Admission,Google Ads,17–21 Age,241871,18824,3533,2181,917,"₹ 126,584","₹ 7,087,677",South India
+2024-04-13,AD001,UG Admission,Google Ads,17–21 Age,288853,12032,2732,1717,785,"₹ 202,095","₹ 2,398,172",East India
+2024-04-14,AD001,UG Admission,Google Ads,17–21 Age,213540,14462,3456,1678,696,"₹ 108,898","₹ 3,431,908",West India
+2024-04-15,AD001,UG Admission,Google Ads,17–21 Age,72233,3762,590,318,184,"₹ 57,707","₹ 1,314,021",West India
+2024-04-16,AD001,UG Admission,Google Ads,17–21 Age,167205,5074,1208,604,322,"₹ 115,667","₹ 2,387,204",West India
+2024-04-17,AD001,UG Admission,Google Ads,17–21 Age,234584,15677,3010,1913,842,"₹ 190,235","₹ 4,025,667",West India
+2024-04-18,AD001,UG Admission,Google Ads,17–21 Age,50267,3518,817,515,226,"₹ 39,782","₹ 893,338",West India
+2024-04-19,AD001,UG Admission,Google Ads,17–21 Age,147737,9789,2427,1461,710,"₹ 115,882","₹ 4,999,995",South India
+2024-04-20,AD001,UG Admission,Google Ads,17–21 Age,103945,5827,1089,686,290,"₹ 45,624","₹ 1,291,459",South India
+2024-04-21,AD001,UG Admission,Google Ads,17–21 Age,180309,13125,2445,1328,595,"₹ 107,078","₹ 4,718,407",South India
+2024-04-22,AD001,UG Admission,Google Ads,17–21 Age,165998,7203,1295,834,489,"₹ 155,076","₹ 3,804,207",South India
+2024-04-23,AD001,UG Admission,Google Ads,17–21 Age,204547,9363,1756,1126,509,"₹ 150,706","₹ 2,219,931",Pan India
+2024-04-24,AD001,UG Admission,Google Ads,17–21 Age,124784,7174,1288,783,351,"₹ 103,745","₹ 1,765,941",Pan India
+2024-04-25,AD001,UG Admission,Google Ads,17–21 Age,132967,10361,1745,990,467,"₹ 65,513","₹ 1,832,026",Pan India
+2024-04-26,AD001,UG Admission,Google Ads,17–21 Age,260506,13356,3163,1998,854,"₹ 256,268","₹ 4,686,284",West India
+2024-04-27,AD001,UG Admission,Google Ads,17–21 Age,229208,9355,2081,1043,469,"₹ 178,259","₹ 2,674,524",Pan India
+2024-04-28,AD001,UG Admission,Google Ads,17–21 Age,171241,7348,1294,719,302,"₹ 85,665","₹ 1,939,709",West India
+2024-04-29,AD001,UG Admission,Google Ads,17–21 Age,161956,10797,1786,1036,542,"₹ 150,184","₹ 2,235,498",East India
+2024-04-30,AD001,UG Admission,Google Ads,17–21 Age,61492,4436,909,457,244,"₹ 50,084","₹ 751,942",West India
+2024-05-01,AD001,UG Admission,Google Ads,17–21 Age,203882,9925,2110,963,504,"₹ 181,727","₹ 3,279,196",South India
+2024-05-02,AD001,UG Admission,Google Ads,17–21 Age,52572,2746,633,286,115,"₹ 31,495","₹ 721,472",West India
+2024-05-03,AD001,UG Admission,Google Ads,17–21 Age,182398,9821,2358,1144,659,"₹ 117,139","₹ 4,142,036",Pan India
+2024-05-04,AD001,UG Admission,Google Ads,17–21 Age,291292,19445,3115,1736,1028,"₹ 264,153","₹ 6,279,651",South India
+2024-05-05,AD001,UG Admission,Google Ads,17–21 Age,209896,11020,2016,1282,676,"₹ 134,786","₹ 5,166,292",West India
+2024-05-06,AD001,UG Admission,Google Ads,17–21 Age,212729,11086,2540,1442,785,"₹ 148,219","₹ 2,403,528",Pan India
+2024-05-07,AD001,UG Admission,Google Ads,17–21 Age,53575,1779,383,198,83,"₹ 31,495","₹ 562,987",South India
+2024-05-08,AD001,UG Admission,Google Ads,17–21 Age,77717,5458,1240,600,252,"₹ 39,734","₹ 1,374,433",North India
+2024-05-09,AD001,UG Admission,Google Ads,17–21 Age,254812,8231,1789,905,508,"₹ 214,463","₹ 3,712,872",Pan India
+2024-05-10,AD001,UG Admission,Google Ads,17–21 Age,159338,8621,1987,1010,560,"₹ 121,167","₹ 2,837,407",Pan India
+2024-05-11,AD001,UG Admission,Google Ads,17–21 Age,107691,5395,912,434,235,"₹ 50,973","₹ 1,299,358",North India
+2024-05-12,AD001,UG Admission,Google Ads,17–21 Age,150217,9087,1717,921,420,"₹ 84,200","₹ 2,218,830",North India
+2024-05-13,AD001,UG Admission,Google Ads,17–21 Age,227093,11820,2504,1225,522,"₹ 192,460","₹ 2,362,548",North India
+2024-05-14,AD001,UG Admission,Google Ads,17–21 Age,212823,12602,1904,1005,425,"₹ 107,267","₹ 1,912,335",West India
+2024-05-15,AD001,UG Admission,Google Ads,17–21 Age,129087,4033,640,346,198,"₹ 101,206","₹ 1,581,964",West India
+2024-05-16,AD001,UG Admission,Google Ads,17–21 Age,95904,4183,667,322,147,"₹ 66,126","₹ 751,735",North India
+2024-05-17,AD001,UG Admission,Google Ads,17–21 Age,135876,8214,1729,909,441,"₹ 85,485","₹ 2,700,294",Pan India
+2024-05-18,AD001,UG Admission,Google Ads,17–21 Age,280625,14687,2934,1372,655,"₹ 191,299","₹ 3,980,786",Pan India
+2024-05-19,AD001,UG Admission,Google Ads,17–21 Age,99328,5165,1149,717,314,"₹ 59,407","₹ 1,218,840",Pan India
+2024-05-20,AD001,UG Admission,Google Ads,17–21 Age,144094,11075,2057,1117,577,"₹ 118,501","₹ 3,178,344",North India
+2024-05-21,AD001,UG Admission,Google Ads,17–21 Age,257103,13993,3038,1674,939,"₹ 151,754","₹ 5,715,057",South India
+2024-05-22,AD001,UG Admission,Google Ads,17–21 Age,209828,14119,2701,1585,667,"₹ 164,162","₹ 3,749,676",North India
+2024-05-23,AD001,UG Admission,Google Ads,17–21 Age,218859,11905,1854,941,482,"₹ 120,755","₹ 1,563,740",East India
+2024-05-24,AD001,UG Admission,Google Ads,17–21 Age,210510,12742,2399,1408,810,"₹ 182,684","₹ 6,159,534",West India
+2024-05-25,AD001,UG Admission,Google Ads,17–21 Age,112134,3488,542,286,159,"₹ 76,411","₹ 520,844",North India
+2024-05-26,AD001,UG Admission,Google Ads,17–21 Age,167323,6870,1386,656,339,"₹ 154,890","₹ 2,689,432",West India
+2024-05-27,AD001,UG Admission,Google Ads,17–21 Age,71573,3385,572,368,169,"₹ 37,172","₹ 1,300,603",South India
+2024-05-28,AD001,UG Admission,Google Ads,17–21 Age,157823,9513,2121,1051,506,"₹ 109,850","₹ 3,668,864",South India
+2024-05-29,AD001,UG Admission,Google Ads,17–21 Age,170857,13220,2821,1398,619,"₹ 96,132","₹ 4,551,262",North India
+2024-05-30,AD001,UG Admission,Google Ads,17–21 Age,286098,8605,1496,757,307,"₹ 284,696","₹ 2,297,720",North India
+2024-05-31,AD001,UG Admission,Google Ads,17–21 Age,179655,7512,1329,827,420,"₹ 177,941","₹ 2,774,452",South India
+2024-06-01,AD001,UG Admission,Google Ads,17–21 Age,200920,10462,2244,1338,750,"₹ 142,412","₹ 4,242,470",West India
+2024-06-02,AD001,UG Admission,Google Ads,17–21 Age,277733,19722,3356,1999,1087,"₹ 267,369","₹ 6,633,450",East India
+2024-06-03,AD001,UG Admission,Google Ads,17–21 Age,163525,6314,1573,794,445,"₹ 161,244","₹ 2,892,185",East India
+2024-06-04,AD001,UG Admission,Google Ads,17–21 Age,57200,2876,542,295,144,"₹ 40,656","₹ 1,131,480",North India
+2024-06-05,AD001,UG Admission,Google Ads,17–21 Age,138496,6165,1152,534,238,"₹ 78,356","₹ 1,666,242",West India
+2024-06-06,AD001,UG Admission,Google Ads,17–21 Age,173098,12987,2605,1205,678,"₹ 171,935","₹ 4,701,885",East India
+2024-06-07,AD001,UG Admission,Google Ads,17–21 Age,132867,6166,1353,871,423,"₹ 110,776","₹ 1,886,619",North India
+2024-06-08,AD001,UG Admission,Google Ads,17–21 Age,78405,5902,1106,584,309,"₹ 59,265","₹ 1,624,993",Pan India
+2024-06-09,AD001,UG Admission,Google Ads,17–21 Age,123612,8089,1527,775,424,"₹ 113,946","₹ 3,146,851",Pan India
+2024-06-10,AD001,UG Admission,Google Ads,17–21 Age,195933,8997,1665,915,447,"₹ 189,378","₹ 2,736,848",North India
+2024-06-11,AD001,UG Admission,Google Ads,17–21 Age,107645,6490,1396,669,394,"₹ 64,452","₹ 2,150,211",South India
+2024-06-12,AD001,UG Admission,Google Ads,17–21 Age,126990,3967,640,342,195,"₹ 78,557","₹ 817,560",South India
+2024-06-13,AD001,UG Admission,Google Ads,17–21 Age,173173,6384,1547,788,399,"₹ 127,532","₹ 2,683,478",East India
+2024-06-14,AD001,UG Admission,Google Ads,17–21 Age,267033,20262,3713,2404,1299,"₹ 216,742","₹ 7,943,328",Pan India
+2024-06-15,AD001,UG Admission,Google Ads,17–21 Age,132726,7918,1387,700,353,"₹ 57,062","₹ 1,916,053",East India
+2024-06-16,AD001,UG Admission,Google Ads,17–21 Age,251270,9386,1500,689,349,"₹ 244,868","₹ 2,427,244",North India
+2024-06-17,AD001,UG Admission,Google Ads,17–21 Age,207125,16396,3081,1427,767,"₹ 130,265","₹ 5,214,044",West India
+2024-06-18,AD001,UG Admission,Google Ads,17–21 Age,224667,15878,3948,2098,1224,"₹ 195,774","₹ 4,343,633",East India
+2024-06-19,AD001,UG Admission,Google Ads,17–21 Age,295874,20384,3505,2023,974,"₹ 195,141","₹ 5,500,365",East India
+2024-06-20,AD001,UG Admission,Google Ads,17–21 Age,205409,7026,1119,706,423,"₹ 175,825","₹ 1,322,998",Pan India
+2024-06-21,AD001,UG Admission,Google Ads,17–21 Age,189047,7231,1473,846,469,"₹ 149,311","₹ 2,655,171",North India
+2024-06-22,AD001,UG Admission,Google Ads,17–21 Age,174907,8495,2121,1059,425,"₹ 134,701","₹ 2,590,999",North India
+2024-06-23,AD001,UG Admission,Google Ads,17–21 Age,176167,10868,1936,1164,627,"₹ 121,892","₹ 4,751,275",East India
+2024-06-24,AD001,UG Admission,Google Ads,17–21 Age,170905,8986,2123,1289,772,"₹ 77,321","₹ 3,546,992",Pan India
+2024-06-25,AD001,UG Admission,Google Ads,17–21 Age,92195,6158,1102,514,217,"₹ 53,345","₹ 1,158,160",West India
+2024-06-26,AD001,UG Admission,Google Ads,17–21 Age,144589,11439,2189,1146,674,"₹ 93,883","₹ 3,774,177",Pan India
+2024-06-27,AD001,UG Admission,Google Ads,17–21 Age,218634,13467,2852,1603,838,"₹ 196,856","₹ 2,571,768",North India
+2024-06-28,AD001,UG Admission,Google Ads,17–21 Age,224017,17218,3927,2217,1085,"₹ 145,416","₹ 7,154,155",North India
+2024-06-29,AD001,UG Admission,Google Ads,17–21 Age,99562,5277,1146,694,296,"₹ 73,479","₹ 920,163",North India
+2024-06-30,AD001,UG Admission,Google Ads,17–21 Age,247894,9939,2312,1356,632,"₹ 174,102","₹ 4,208,263",West India
+2024-07-01,AD001,UG Admission,Google Ads,17–21 Age,189966,6959,1711,797,357,"₹ 128,422","₹ 2,524,973",South India
+2024-07-02,AD001,UG Admission,Google Ads,17–21 Age,290368,17043,2956,1912,1082,"₹ 182,545","₹ 3,348,575",South India
+2024-07-03,AD001,UG Admission,Google Ads,17–21 Age,98624,5398,1025,555,234,"₹ 58,644","₹ 1,605,698",East India
+2024-07-04,AD001,UG Admission,Google Ads,17–21 Age,185544,8967,1881,974,497,"₹ 143,891","₹ 2,013,576",North India
+2024-07-05,AD001,UG Admission,Google Ads,17–21 Age,64345,2893,673,399,231,"₹ 58,397","₹ 1,512,058",East India
+2024-07-06,AD001,UG Admission,Google Ads,17–21 Age,260059,15459,2859,1616,748,"₹ 238,170","₹ 3,760,809",Pan India
+2024-07-07,AD001,UG Admission,Google Ads,17–21 Age,272679,12573,2386,1298,669,"₹ 125,239","₹ 4,864,240",East India
+2024-07-08,AD001,UG Admission,Google Ads,17–21 Age,248350,16741,2897,1713,861,"₹ 217,165","₹ 3,498,931",Pan India
+2024-07-09,AD001,UG Admission,Google Ads,17–21 Age,177393,7806,1826,1016,471,"₹ 138,014","₹ 3,729,597",Pan India
+2024-07-10,AD001,UG Admission,Google Ads,17–21 Age,151029,9303,1887,1057,498,"₹ 70,776","₹ 1,931,400",Pan India
+2024-07-11,AD001,UG Admission,Google Ads,17–21 Age,53745,4296,787,354,145,"₹ 28,331","₹ 567,613",North India
+2024-07-12,AD001,UG Admission,Google Ads,17–21 Age,81985,2676,589,334,155,"₹ 39,731","₹ 1,134,387",East India
+2024-07-13,AD001,UG Admission,Google Ads,17–21 Age,101535,3234,704,418,167,"₹ 49,643","₹ 538,638",South India
+2024-07-14,AD001,UG Admission,Google Ads,17–21 Age,56203,3399,526,282,124,"₹ 50,748","₹ 703,721",East India
+2024-07-15,AD001,UG Admission,Google Ads,17–21 Age,172571,12649,2920,1512,709,"₹ 144,033","₹ 4,185,548",West India
+2024-07-16,AD001,UG Admission,Google Ads,17–21 Age,206620,15320,3284,2077,936,"₹ 107,032","₹ 4,032,427",West India
+2024-07-17,AD001,UG Admission,Google Ads,17–21 Age,238579,11277,1997,942,481,"₹ 200,473","₹ 1,996,665",West India
+2024-07-18,AD001,UG Admission,Google Ads,17–21 Age,299596,13778,2469,1401,803,"₹ 133,225","₹ 4,364,605",Pan India
+2024-07-19,AD001,UG Admission,Google Ads,17–21 Age,289584,9928,1754,852,495,"₹ 233,554","₹ 1,607,665",North India
+2024-07-20,AD001,UG Admission,Google Ads,17–21 Age,272890,10309,2371,1461,865,"₹ 248,691","₹ 6,675,095",West India
+2024-07-21,AD001,UG Admission,Google Ads,17–21 Age,285905,8585,1949,993,582,"₹ 254,212","₹ 3,218,556",West India
+2024-07-22,AD001,UG Admission,Google Ads,17–21 Age,92579,6825,1236,768,372,"₹ 46,341","₹ 2,501,010",West India
+2024-07-23,AD001,UG Admission,Google Ads,17–21 Age,262199,20171,3719,2289,1259,"₹ 108,833","₹ 8,859,616",North India
+2024-07-24,AD001,UG Admission,Google Ads,17–21 Age,198212,6874,1415,799,462,"₹ 108,824","₹ 3,333,666",Pan India
+2024-07-25,AD001,UG Admission,Google Ads,17–21 Age,118809,7312,1760,995,443,"₹ 100,652","₹ 2,996,388",West India
+2024-07-26,AD001,UG Admission,Google Ads,17–21 Age,182889,5572,878,401,226,"₹ 93,158","₹ 1,525,793",North India
+2024-07-27,AD001,UG Admission,Google Ads,17–21 Age,85016,3976,731,365,182,"₹ 39,558","₹ 1,358,546",South India
+2024-07-28,AD001,UG Admission,Google Ads,17–21 Age,136206,8419,2017,1200,719,"₹ 66,697","₹ 3,914,237",West India
+2024-07-29,AD001,UG Admission,Google Ads,17–21 Age,165347,11046,2068,1143,503,"₹ 143,383","₹ 1,991,696",South India
+2024-07-30,AD001,UG Admission,Google Ads,17–21 Age,293930,12917,3074,1552,860,"₹ 135,738","₹ 4,957,160",West India
+2024-07-31,AD001,UG Admission,Google Ads,17–21 Age,143598,9751,1930,965,442,"₹ 121,893","₹ 1,449,677",Pan India
+2024-08-01,AD001,UG Admission,Google Ads,17–21 Age,54410,4309,693,357,191,"₹ 48,121","₹ 1,063,428",North India
+2024-08-01,AD005,Semester Exchange Program,Instagram,22–27 Age,100600,4426,1006,578,315,"₹ 88,125","₹ 2,363,534",South India
+2024-08-02,AD001,UG Admission,Google Ads,17–21 Age,132675,10342,1904,862,374,"₹ 113,476","₹ 1,926,664",North India
+2024-08-02,AD005,Semester Exchange Program,Instagram,17–21 Age,120721,9109,1747,1023,521,"₹ 75,050","₹ 2,509,324",North India
+2024-08-03,AD001,UG Admission,Google Ads,17–21 Age,200741,11692,2445,1190,664,"₹ 136,501","₹ 3,345,577",South India
+2024-08-03,AD005,Semester Exchange Program,Instagram,17–21 Age,208142,16098,3655,2210,1252,"₹ 141,729","₹ 7,709,100",Pan India
+2024-08-04,AD001,UG Admission,Google Ads,17–21 Age,62326,2288,416,208,97,"₹ 53,808","₹ 514,276",West India
+2024-08-04,AD005,Semester Exchange Program,Instagram,22–27 Age,60178,3164,594,300,141,"₹ 36,780","₹ 638,056",East India
+2024-08-05,AD001,UG Admission,Google Ads,17–21 Age,105561,6091,1210,657,361,"₹ 58,133","₹ 1,085,319",South India
+2024-08-05,AD005,Semester Exchange Program,Instagram,17–21 Age,108128,4562,1033,586,260,"₹ 58,193","₹ 1,634,561",South India
+2024-08-06,AD001,UG Admission,Google Ads,17–21 Age,96715,4883,1120,538,232,"₹ 43,537","₹ 1,813,997",East India
+2024-08-06,AD005,Semester Exchange Program,Instagram,25–35 Age,99786,4538,843,475,270,"₹ 86,473","₹ 1,992,670",North India
+2024-08-07,AD001,UG Admission,Google Ads,17–21 Age,297887,19916,3329,2125,936,"₹ 270,728","₹ 2,895,012",West India
+2024-08-07,AD005,Semester Exchange Program,Instagram,17–21 Age,54376,2198,530,240,98,"₹ 48,889","₹ 404,235",Pan India
+2024-08-08,AD001,UG Admission,Google Ads,17–21 Age,88036,3843,807,511,208,"₹ 69,666","₹ 1,270,694",Pan India
+2024-08-08,AD005,Semester Exchange Program,Instagram,17–21 Age,276523,11747,1913,1099,451,"₹ 112,551","₹ 3,062,511",West India
+2024-08-09,AD001,UG Admission,Google Ads,17–21 Age,61270,3608,771,487,203,"₹ 48,487","₹ 1,016,705",South India
+2024-08-09,AD005,Semester Exchange Program,Instagram,25–35 Age,175935,8558,1832,1035,601,"₹ 163,463","₹ 2,873,827",East India
+2024-08-10,AD001,UG Admission,Google Ads,17–21 Age,270202,19267,3864,1957,1169,"₹ 132,916","₹ 5,811,867",Pan India
+2024-08-10,AD005,Semester Exchange Program,Instagram,17–21 Age,70308,4870,930,492,251,"₹ 51,723","₹ 1,262,104",South India
+2024-08-11,AD001,UG Admission,Google Ads,17–21 Age,206790,15329,3569,2038,1076,"₹ 151,435","₹ 8,479,989",South India
+2024-08-11,AD005,Semester Exchange Program,Instagram,25–35 Age,239465,10006,1533,767,445,"₹ 119,177","₹ 3,554,174",North India
+2024-08-12,AD001,UG Admission,Google Ads,17–21 Age,143259,4765,1041,609,246,"₹ 103,534","₹ 1,950,084",Pan India
+2024-08-12,AD005,Semester Exchange Program,Instagram,25–35 Age,60504,2239,539,322,184,"₹ 54,507","₹ 1,051,156",Pan India
+2024-08-13,AD001,UG Admission,Google Ads,17–21 Age,203962,9650,2394,1402,591,"₹ 143,265","₹ 2,808,714",North India
+2024-08-13,AD005,Semester Exchange Program,Instagram,17–21 Age,140195,9654,1913,1044,524,"₹ 78,718","₹ 3,267,340",West India
+2024-08-14,AD001,UG Admission,Google Ads,17–21 Age,93684,5805,1305,670,372,"₹ 41,068","₹ 1,553,036",West India
+2024-08-14,AD005,Semester Exchange Program,Instagram,25–35 Age,184290,10858,2176,991,427,"₹ 163,227","₹ 1,995,132",South India
+2024-08-15,AD001,UG Admission,Google Ads,17–21 Age,246897,8565,2017,1112,614,"₹ 246,807","₹ 4,424,382",North India
+2024-08-15,AD005,Semester Exchange Program,Instagram,17–21 Age,75772,2986,585,343,194,"₹ 50,359","₹ 1,510,027",North India
+2024-08-16,AD001,UG Admission,Google Ads,17–21 Age,259857,18951,3776,2370,1066,"₹ 110,741","₹ 3,876,987",North India
+2024-08-16,AD005,Semester Exchange Program,Instagram,25–35 Age,147185,8624,2052,1243,630,"₹ 102,580","₹ 3,446,318",West India
+2024-08-17,AD001,UG Admission,Google Ads,17–21 Age,160425,11372,2306,1230,588,"₹ 133,747","₹ 2,831,001",North India
+2024-08-17,AD005,Semester Exchange Program,Instagram,22–27 Age,196487,8699,1691,1051,613,"₹ 171,744","₹ 3,311,851",South India
+2024-08-18,AD001,UG Admission,Google Ads,17–21 Age,136692,7477,1371,764,442,"₹ 120,425","₹ 2,071,544",West India
+2024-08-18,AD005,Semester Exchange Program,Instagram,25–35 Age,254671,15131,3100,1454,638,"₹ 167,140","₹ 4,151,996",West India
+2024-08-19,AD001,UG Admission,Google Ads,17–21 Age,167681,13225,2990,1842,894,"₹ 92,404","₹ 6,148,024",North India
+2024-08-19,AD005,Semester Exchange Program,Instagram,17–21 Age,150411,8934,1854,1043,438,"₹ 83,953","₹ 3,329,055",East India
+2024-08-20,AD001,UG Admission,Google Ads,17–21 Age,50916,2686,642,387,160,"₹ 34,435","₹ 774,445",North India
+2024-08-20,AD005,Semester Exchange Program,Instagram,22–27 Age,266600,18274,4074,2224,907,"₹ 192,783","₹ 4,819,731",South India
+2024-08-21,AD001,UG Admission,Google Ads,17–21 Age,246115,17238,2715,1569,816,"₹ 239,238","₹ 5,018,705",East India
+2024-08-21,AD005,Semester Exchange Program,Instagram,17–21 Age,286047,14611,3332,1656,978,"₹ 195,180","₹ 5,342,189",North India
+2024-08-22,AD001,UG Admission,Google Ads,17–21 Age,55434,3340,628,299,157,"₹ 47,689","₹ 567,663",Pan India
+2024-08-22,AD005,Semester Exchange Program,Instagram,17–21 Age,138420,9190,1758,895,476,"₹ 121,776","₹ 3,796,436",South India
+2024-08-23,AD001,UG Admission,Google Ads,17–21 Age,212121,8521,1831,1065,523,"₹ 210,423","₹ 1,816,349",South India
+2024-08-23,AD005,Semester Exchange Program,Instagram,22–27 Age,174155,7729,1269,726,423,"₹ 114,530","₹ 1,755,445",South India
+2024-08-24,AD001,UG Admission,Google Ads,17–21 Age,298055,23238,3774,2035,1015,"₹ 255,249","₹ 5,574,248",West India
+2024-08-24,AD005,Semester Exchange Program,Instagram,17–21 Age,73433,3246,574,335,163,"₹ 43,645","₹ 1,029,954",Pan India
+2024-08-25,AD001,UG Admission,Google Ads,17–21 Age,273318,12830,2725,1477,719,"₹ 249,801","₹ 3,360,100",West India
+2024-08-25,AD005,Semester Exchange Program,Instagram,17–21 Age,190927,8324,1746,1040,502,"₹ 153,681","₹ 1,737,264",West India
+2024-08-26,AD001,UG Admission,Google Ads,17–21 Age,280548,22400,3381,2001,1115,"₹ 243,364","₹ 7,580,436",Pan India
+2024-08-26,AD005,Semester Exchange Program,Instagram,17–21 Age,285397,15333,2569,1619,881,"₹ 167,612","₹ 5,312,696",Pan India
+2024-08-27,AD001,UG Admission,Google Ads,17–21 Age,230587,11780,2103,985,557,"₹ 170,545","₹ 2,172,106",North India
+2024-08-27,AD005,Semester Exchange Program,Instagram,22–27 Age,239102,11777,2683,1443,793,"₹ 178,773","₹ 6,237,100",South India
+2024-08-28,AD001,UG Admission,Google Ads,17–21 Age,122769,4992,1154,639,335,"₹ 76,198","₹ 1,803,614",East India
+2024-08-28,AD005,Semester Exchange Program,Instagram,25–35 Age,118445,9312,1796,862,394,"₹ 53,889","₹ 1,248,957",Pan India
+2024-08-29,AD001,UG Admission,Google Ads,17–21 Age,176924,6002,1405,726,305,"₹ 149,271","₹ 1,316,066",Pan India
+2024-08-29,AD005,Semester Exchange Program,Instagram,17–21 Age,141835,4781,815,412,201,"₹ 71,163","₹ 1,195,977",East India
+2024-08-30,AD001,UG Admission,Google Ads,17–21 Age,89353,3461,777,423,218,"₹ 68,408","₹ 1,404,431",East India
+2024-08-30,AD005,Semester Exchange Program,Instagram,25–35 Age,172603,13771,3131,1756,957,"₹ 123,950","₹ 7,284,647",West India
+2024-08-31,AD001,UG Admission,Google Ads,17–21 Age,275170,8309,2008,1217,654,"₹ 116,652","₹ 2,196,952",North India
+2024-08-31,AD005,Semester Exchange Program,Instagram,25–35 Age,188007,12565,2831,1364,556,"₹ 100,933","₹ 2,063,936",North India
+2024-09-01,AD005,Semester Exchange Program,Instagram,25–35 Age,277995,17323,3307,1962,807,"₹ 119,950","₹ 3,907,589",East India
+2024-09-02,AD005,Semester Exchange Program,Instagram,17–21 Age,204641,14981,3396,1681,682,"₹ 155,414","₹ 5,373,759",Pan India
+2024-09-03,AD005,Semester Exchange Program,Instagram,22–27 Age,80461,5310,1043,626,251,"₹ 56,362","₹ 988,492",East India
+2024-09-04,AD005,Semester Exchange Program,Instagram,17–21 Age,225116,11836,2871,1828,993,"₹ 145,813","₹ 7,254,951",South India
+2024-09-05,AD005,Semester Exchange Program,Instagram,17–21 Age,116737,9182,1836,1173,621,"₹ 99,176","₹ 2,537,615",South India
+2024-09-06,AD005,Semester Exchange Program,Instagram,22–27 Age,63297,4534,954,479,279,"₹ 50,867","₹ 2,142,106",Pan India
+2024-09-07,AD005,Semester Exchange Program,Instagram,22–27 Age,58123,2245,487,238,102,"₹ 48,038","₹ 806,658",West India
+2024-09-08,AD005,Semester Exchange Program,Instagram,17–21 Age,245747,19560,3600,2070,927,"₹ 200,843","₹ 3,867,146",West India
+2024-09-09,AD005,Semester Exchange Program,Instagram,17–21 Age,84497,2556,527,306,147,"₹ 40,401","₹ 517,444",East India
+2024-09-10,AD005,Semester Exchange Program,Instagram,17–21 Age,241659,17679,2873,1586,722,"₹ 135,222","₹ 4,879,841",East India
+2024-09-11,AD005,Semester Exchange Program,Instagram,22–27 Age,65507,2625,419,269,116,"₹ 58,811","₹ 812,926",West India
+2024-09-12,AD005,Semester Exchange Program,Instagram,17–21 Age,89606,3064,523,302,174,"₹ 82,238","₹ 1,090,016",Pan India
+2024-09-13,AD005,Semester Exchange Program,Instagram,25–35 Age,288944,22296,3936,2456,1336,"₹ 268,441","₹ 10,200,619",North India
+2024-09-14,AD005,Semester Exchange Program,Instagram,25–35 Age,61065,3349,511,253,103,"₹ 50,675","₹ 618,471",East India
+2024-09-15,AD005,Semester Exchange Program,Instagram,17–21 Age,52998,2691,556,360,169,"₹ 42,374","₹ 1,263,776",South India
+2024-09-16,AD005,Semester Exchange Program,Instagram,17–21 Age,188733,6063,1486,848,495,"₹ 117,045","₹ 1,718,165",West India
+2024-09-17,AD005,Semester Exchange Program,Instagram,22–27 Age,264523,8422,1397,690,285,"₹ 174,372","₹ 2,190,323",North India
+2024-09-18,AD005,Semester Exchange Program,Instagram,17–21 Age,99863,5899,1473,894,463,"₹ 73,759","₹ 1,765,142",East India
+2024-09-19,AD005,Semester Exchange Program,Instagram,25–35 Age,76229,4994,1189,748,448,"₹ 38,131","₹ 2,070,392",North India
+2024-09-20,AD005,Semester Exchange Program,Instagram,17–21 Age,121757,6018,1136,664,374,"₹ 107,788","₹ 2,220,089",South India
+2024-09-21,AD005,Semester Exchange Program,Instagram,25–35 Age,114298,4785,1131,713,345,"₹ 80,919","₹ 2,265,578",North India
+2024-09-22,AD005,Semester Exchange Program,Instagram,17–21 Age,105308,7365,1272,726,432,"₹ 43,967","₹ 2,323,390",North India
+2024-09-23,AD005,Semester Exchange Program,Instagram,22–27 Age,136857,9505,1522,788,362,"₹ 65,109","₹ 1,489,069",South India
+2024-09-24,AD005,Semester Exchange Program,Instagram,17–21 Age,134230,8702,1365,650,332,"₹ 124,822","₹ 1,474,440",West India
+2024-09-25,AD005,Semester Exchange Program,Instagram,22–27 Age,262940,21020,4963,2852,1664,"₹ 200,319","₹ 7,439,846",North India
+2024-09-26,AD005,Semester Exchange Program,Instagram,25–35 Age,273481,17743,3097,1835,1000,"₹ 262,908","₹ 7,305,476",South India
+2024-09-27,AD005,Semester Exchange Program,Instagram,17–21 Age,81135,4547,1123,543,325,"₹ 72,932","₹ 1,570,057",North India
+2024-09-28,AD005,Semester Exchange Program,Instagram,22–27 Age,177065,8511,1962,1141,682,"₹ 126,930","₹ 4,613,730",West India
+2024-09-29,AD005,Semester Exchange Program,Instagram,17–21 Age,120820,8446,1398,808,382,"₹ 96,604","₹ 1,911,054",South India
+2024-09-30,AD005,Semester Exchange Program,Instagram,17–21 Age,108200,3265,588,270,146,"₹ 90,136","₹ 550,297",Pan India
+2024-10-01,AD005,Semester Exchange Program,Instagram,25–35 Age,181393,7776,1216,691,308,"₹ 116,711","₹ 955,853",South India
+2024-10-02,AD005,Semester Exchange Program,Instagram,25–35 Age,188107,11836,2751,1255,668,"₹ 83,985","₹ 3,644,884",North India
+2024-10-03,AD005,Semester Exchange Program,Instagram,17–21 Age,136913,4144,997,508,257,"₹ 88,554","₹ 1,706,756",South India
+2024-10-04,AD005,Semester Exchange Program,Instagram,25–35 Age,275383,21966,4741,2231,912,"₹ 239,729","₹ 3,926,372",Pan India
+2024-10-05,AD005,Semester Exchange Program,Instagram,25–35 Age,287478,15296,2824,1485,658,"₹ 273,924","₹ 2,298,554",North India
+2024-10-06,AD005,Semester Exchange Program,Instagram,25–35 Age,177706,6076,1461,913,494,"₹ 142,059","₹ 1,710,668",Pan India
+2024-10-07,AD005,Semester Exchange Program,Instagram,25–35 Age,295188,8972,1635,877,449,"₹ 209,784","₹ 3,330,514",East India
+2024-10-08,AD005,Semester Exchange Program,Instagram,25–35 Age,142451,6326,1430,782,396,"₹ 65,523","₹ 2,443,483",North India
+2024-10-09,AD005,Semester Exchange Program,Instagram,22–27 Age,54463,3186,540,317,161,"₹ 38,379","₹ 865,327",East India
+2024-10-10,AD005,Semester Exchange Program,Instagram,25–35 Age,139686,5412,1042,509,290,"₹ 75,836","₹ 1,654,751",East India
+2024-10-11,AD005,Semester Exchange Program,Instagram,25–35 Age,120409,4489,780,484,246,"₹ 110,563","₹ 1,888,857",East India
+2024-10-12,AD005,Semester Exchange Program,Instagram,17–21 Age,216016,10639,1987,1050,475,"₹ 139,364","₹ 1,826,452",South India
+2024-10-13,AD005,Semester Exchange Program,Instagram,17–21 Age,58912,4326,782,498,295,"₹ 48,217","₹ 1,214,181",South India
+2024-10-14,AD005,Semester Exchange Program,Instagram,22–27 Age,202717,6817,1069,693,358,"₹ 116,989","₹ 1,522,258",West India
+2024-10-15,AD005,Semester Exchange Program,Instagram,22–27 Age,251656,18834,3343,1918,1080,"₹ 241,798","₹ 7,037,867",South India
+2024-10-16,AD005,Semester Exchange Program,Instagram,17–21 Age,199622,6041,993,525,228,"₹ 176,722","₹ 988,512",South India
+2024-10-17,AD005,Semester Exchange Program,Instagram,25–35 Age,69381,3391,607,363,166,"₹ 49,757","₹ 578,095",Pan India
+2024-10-18,AD005,Semester Exchange Program,Instagram,17–21 Age,287101,12759,2552,1493,878,"₹ 208,157","₹ 4,202,663",North India
+2024-10-19,AD005,Semester Exchange Program,Instagram,17–21 Age,184878,12850,2357,1514,788,"₹ 119,294","₹ 4,620,821",East India
+2024-10-20,AD005,Semester Exchange Program,Instagram,22–27 Age,92994,4254,1025,663,325,"₹ 63,510","₹ 1,979,291",West India
+2024-10-21,AD005,Semester Exchange Program,Instagram,25–35 Age,122794,7849,1907,1022,609,"₹ 115,045","₹ 2,146,534",East India
+2024-10-22,AD005,Semester Exchange Program,Instagram,17–21 Age,91570,6739,1285,721,353,"₹ 79,415","₹ 2,003,387",West India
+2024-10-23,AD005,Semester Exchange Program,Instagram,25–35 Age,136044,5700,1277,576,315,"₹ 81,290","₹ 1,260,960",West India
+2024-10-24,AD005,Semester Exchange Program,Instagram,22–27 Age,167984,5400,1206,563,278,"₹ 99,049","₹ 1,366,324",East India
+2024-10-25,AD005,Semester Exchange Program,Instagram,22–27 Age,95036,5272,948,435,238,"₹ 52,510","₹ 1,552,232",North India
+2024-10-26,AD005,Semester Exchange Program,Instagram,25–35 Age,59294,3218,771,376,216,"₹ 51,408","₹ 827,193",West India
+2024-10-27,AD005,Semester Exchange Program,Instagram,22–27 Age,130677,9462,1831,969,562,"₹ 89,432","₹ 2,487,761",North India
+2024-10-28,AD005,Semester Exchange Program,Instagram,22–27 Age,97058,3274,651,375,190,"₹ 45,063","₹ 895,882",Pan India
+2024-10-29,AD005,Semester Exchange Program,Instagram,17–21 Age,179478,6773,1044,667,270,"₹ 91,661","₹ 2,080,724",North India
+2024-10-30,AD005,Semester Exchange Program,Instagram,25–35 Age,281673,15379,3271,1753,1035,"₹ 204,310","₹ 3,459,762",South India
+2024-10-31,AD005,Semester Exchange Program,Instagram,25–35 Age,116450,6235,1558,824,360,"₹ 65,629","₹ 1,949,669",South India
+2024-11-01,AD005,Semester Exchange Program,Instagram,17–21 Age,225961,14171,3221,1819,993,"₹ 168,278","₹ 3,222,208",North India
+2024-11-02,AD005,Semester Exchange Program,Instagram,25–35 Age,106756,7681,1748,926,405,"₹ 72,448","₹ 1,950,812",Pan India
+2024-11-03,AD005,Semester Exchange Program,Instagram,17–21 Age,232832,9147,1633,749,397,"₹ 193,724","₹ 3,007,991",South India
+2024-11-04,AD005,Semester Exchange Program,Instagram,22–27 Age,283483,9399,2257,1289,646,"₹ 152,209","₹ 2,606,458",Pan India
+2024-11-05,AD005,Semester Exchange Program,Instagram,25–35 Age,239123,8684,1946,1221,722,"₹ 204,002","₹ 2,714,132",North India
+2024-11-06,AD005,Semester Exchange Program,Instagram,25–35 Age,276380,16064,2534,1232,551,"₹ 170,391","₹ 3,092,024",East India
+2024-11-07,AD005,Semester Exchange Program,Instagram,17–21 Age,270180,14454,3258,1917,990,"₹ 268,873","₹ 6,443,869",West India
+2024-11-08,AD005,Semester Exchange Program,Instagram,17–21 Age,286662,11043,1712,779,318,"₹ 131,185","₹ 1,392,508",East India
+2024-11-09,AD005,Semester Exchange Program,Instagram,22–27 Age,181568,10036,2164,1043,557,"₹ 105,289","₹ 2,943,847",Pan India
+2024-11-10,AD005,Semester Exchange Program,Instagram,17–21 Age,55161,1674,327,182,93,"₹ 27,683","₹ 419,255",North India
+2024-11-11,AD005,Semester Exchange Program,Instagram,25–35 Age,146332,7956,1417,687,389,"₹ 145,599","₹ 1,883,807",East India
+2024-11-12,AD005,Semester Exchange Program,Instagram,17–21 Age,283452,10161,2461,1357,599,"₹ 241,562","₹ 2,333,254",East India
+2024-11-13,AD005,Semester Exchange Program,Instagram,17–21 Age,266279,21175,3231,1568,646,"₹ 219,965","₹ 2,905,813",East India
+2024-11-14,AD005,Semester Exchange Program,Instagram,25–35 Age,126096,4710,786,422,172,"₹ 75,860","₹ 757,099",Pan India
+2024-11-15,AD005,Semester Exchange Program,Instagram,22–27 Age,72191,4406,911,578,345,"₹ 56,628","₹ 1,560,935",West India
+2024-11-16,AD005,Semester Exchange Program,Instagram,25–35 Age,102772,7546,1445,670,401,"₹ 91,992","₹ 2,282,140",Pan India
+2024-11-17,AD005,Semester Exchange Program,Instagram,22–27 Age,110873,5990,1401,803,465,"₹ 86,113","₹ 2,382,488",Pan India
+2024-11-18,AD005,Semester Exchange Program,Instagram,17–21 Age,204362,14066,3141,1562,659,"₹ 184,747","₹ 3,568,654",South India
+2024-11-19,AD005,Semester Exchange Program,Instagram,17–21 Age,180572,12720,2814,1384,578,"₹ 137,202","₹ 3,495,164",West India
+2024-11-20,AD005,Semester Exchange Program,Instagram,25–35 Age,193929,13873,3062,1471,874,"₹ 161,155","₹ 6,776,186",West India
+2024-11-21,AD005,Semester Exchange Program,Instagram,25–35 Age,82283,2921,481,235,130,"₹ 76,726","₹ 415,138",North India
+2024-11-22,AD005,Semester Exchange Program,Instagram,25–35 Age,192091,11604,2347,1104,643,"₹ 125,058","₹ 4,406,790",West India
+2024-11-23,AD005,Semester Exchange Program,Instagram,25–35 Age,65161,2390,561,334,173,"₹ 46,010","₹ 825,434",South India
+2024-11-24,AD005,Semester Exchange Program,Instagram,22–27 Age,273486,9563,1760,876,515,"₹ 230,126","₹ 3,733,798",Pan India
+2024-11-25,AD005,Semester Exchange Program,Instagram,22–27 Age,69058,3605,672,383,211,"₹ 46,790","₹ 1,676,078",South India
+2024-11-26,AD005,Semester Exchange Program,Instagram,22–27 Age,91853,6881,1240,672,277,"₹ 44,008","₹ 1,877,094",North India
+2024-11-27,AD005,Semester Exchange Program,Instagram,17–21 Age,90600,5028,1186,602,308,"₹ 73,545","₹ 1,650,695",East India
+2024-11-28,AD005,Semester Exchange Program,Instagram,22–27 Age,175761,5318,1233,657,374,"₹ 116,486","₹ 2,032,416",South India
+2024-11-29,AD005,Semester Exchange Program,Instagram,22–27 Age,255808,20215,4403,2084,1238,"₹ 219,726","₹ 5,687,976",West India
+2024-11-30,AD005,Semester Exchange Program,Instagram,22–27 Age,80454,5850,1090,544,298,"₹ 70,152","₹ 1,542,619",Pan India
+2024-12-01,AD005,Semester Exchange Program,Instagram,17–21 Age,197437,15661,3170,2036,967,"₹ 127,000","₹ 3,380,862",East India
+2024-12-02,AD005,Semester Exchange Program,Instagram,25–35 Age,89542,6519,1086,697,285,"₹ 60,866","₹ 1,813,988",East India
+2024-12-03,AD005,Semester Exchange Program,Instagram,17–21 Age,264827,17541,3210,1832,918,"₹ 239,779","₹ 4,492,737",North India
+2024-12-04,AD005,Semester Exchange Program,Instagram,25–35 Age,246484,15426,3748,2056,1100,"₹ 197,908","₹ 3,733,898",North India
+2024-12-05,AD005,Semester Exchange Program,Instagram,22–27 Age,166847,6747,1403,818,471,"₹ 125,047","₹ 1,803,265",Pan India
+2024-12-06,AD005,Semester Exchange Program,Instagram,17–21 Age,159764,8942,1411,644,294,"₹ 90,589","₹ 1,354,157",Pan India
+2024-12-07,AD005,Semester Exchange Program,Instagram,22–27 Age,102163,5048,1064,661,327,"₹ 60,848","₹ 2,575,368",West India
+2024-12-08,AD005,Semester Exchange Program,Instagram,25–35 Age,126853,7221,1286,797,398,"₹ 50,967","₹ 2,508,470",West India
+2024-12-09,AD005,Semester Exchange Program,Instagram,25–35 Age,220003,12964,2716,1272,714,"₹ 149,925","₹ 5,270,433",East India
+2024-12-10,AD005,Semester Exchange Program,Instagram,22–27 Age,201824,7307,1450,689,362,"₹ 150,906","₹ 1,905,071",Pan India
+2024-12-11,AD005,Semester Exchange Program,Instagram,17–21 Age,250260,19853,3492,1798,784,"₹ 135,507","₹ 2,906,425",West India
+2024-12-12,AD005,Semester Exchange Program,Instagram,25–35 Age,135664,4928,1186,699,396,"₹ 57,126","₹ 2,556,577",West India
+2024-12-13,AD005,Semester Exchange Program,Instagram,25–35 Age,160397,9855,1850,945,509,"₹ 66,688","₹ 2,358,768",Pan India
+2024-12-14,AD005,Semester Exchange Program,Instagram,22–27 Age,79723,3466,546,277,162,"₹ 45,008","₹ 714,695",Pan India
+2024-12-15,AD005,Semester Exchange Program,Instagram,25–35 Age,152326,8620,2136,1366,558,"₹ 144,404","₹ 4,066,244",North India
+2024-12-16,AD005,Semester Exchange Program,Instagram,25–35 Age,215008,12718,3010,1775,928,"₹ 185,495","₹ 5,966,829",North India
+2024-12-17,AD005,Semester Exchange Program,Instagram,25–35 Age,226154,6787,1355,775,413,"₹ 127,284","₹ 3,048,286",East India
+2024-12-18,AD005,Semester Exchange Program,Instagram,17–21 Age,65380,3622,886,466,197,"₹ 38,281","₹ 618,936",East India
+2024-12-19,AD005,Semester Exchange Program,Instagram,22–27 Age,64816,4503,783,385,198,"₹ 36,917","₹ 1,292,747",South India
+2024-12-20,AD005,Semester Exchange Program,Instagram,25–35 Age,129732,6744,1532,866,459,"₹ 59,861","₹ 3,616,448",North India
+2024-12-21,AD005,Semester Exchange Program,Instagram,25–35 Age,191010,6685,1113,682,386,"₹ 84,243","₹ 2,143,081",East India
+2024-12-22,AD005,Semester Exchange Program,Instagram,22–27 Age,68302,2222,383,243,139,"₹ 55,070","₹ 866,752",West India
+2024-12-23,AD005,Semester Exchange Program,Instagram,22–27 Age,148429,6118,1413,782,344,"₹ 93,856","₹ 1,316,378",North India
+2024-12-24,AD005,Semester Exchange Program,Instagram,22–27 Age,130005,7572,1183,758,342,"₹ 52,249","₹ 2,407,661",South India
+2024-12-25,AD005,Semester Exchange Program,Instagram,25–35 Age,188671,14836,3690,2154,921,"₹ 187,239","₹ 5,745,146",West India
+2024-12-26,AD005,Semester Exchange Program,Instagram,22–27 Age,210372,8399,1694,973,468,"₹ 119,551","₹ 3,244,204",South India
+2024-12-27,AD005,Semester Exchange Program,Instagram,17–21 Age,242821,11287,2295,1202,698,"₹ 99,352","₹ 4,449,421",Pan India
+2024-12-28,AD005,Semester Exchange Program,Instagram,22–27 Age,203553,16070,3160,1749,804,"₹ 85,165","₹ 4,136,750",West India
+2024-12-29,AD005,Semester Exchange Program,Instagram,17–21 Age,76603,5356,1267,651,332,"₹ 45,530","₹ 1,938,587",West India
+2024-12-30,AD005,Semester Exchange Program,Instagram,22–27 Age,170097,6950,1199,740,397,"₹ 123,129","₹ 2,422,517",South India
+2024-12-31,AD005,Semester Exchange Program,Instagram,22–27 Age,131701,9179,1437,927,505,"₹ 59,393","₹ 3,247,013",Pan India
+2025-01-01,AD003,Placements,LinkedIn,22–27 Age,279530,19894,3599,2203,1218,"₹ 273,390","₹ 8,583,247",South India
+2025-01-02,AD003,Placements,LinkedIn,17–21 Age,107357,3850,660,404,170,"₹ 64,298","₹ 639,111",West India
+2025-01-03,AD003,Placements,LinkedIn,25–35 Age,234568,11507,2233,1415,677,"₹ 228,210","₹ 3,116,135",West India
+2025-01-04,AD003,Placements,LinkedIn,25–35 Age,118873,6602,1257,706,337,"₹ 88,250","₹ 1,510,928",West India
+2025-01-05,AD003,Placements,LinkedIn,22–27 Age,65935,3337,635,299,144,"₹ 33,689","₹ 618,177",Pan India
+2025-01-06,AD003,Placements,LinkedIn,25–35 Age,98052,5653,1278,620,365,"₹ 66,528","₹ 2,071,736",East India
+2025-01-07,AD003,Placements,LinkedIn,22–27 Age,131378,7546,1518,715,293,"₹ 83,251","₹ 1,142,013",Pan India
+2025-01-08,AD003,Placements,LinkedIn,22–27 Age,262420,14446,3479,2040,966,"₹ 119,192","₹ 6,335,109",West India
+2025-01-09,AD003,Placements,LinkedIn,25–35 Age,153266,6717,1640,966,430,"₹ 153,150","₹ 2,013,145",Pan India
+2025-01-10,AD003,Placements,LinkedIn,22–27 Age,70209,2239,511,331,185,"₹ 54,632","₹ 1,173,023",South India
+2025-01-11,AD003,Placements,LinkedIn,22–27 Age,125823,6100,1244,598,263,"₹ 78,509","₹ 1,955,713",South India
+2025-01-12,AD003,Placements,LinkedIn,25–35 Age,203716,6420,1047,499,199,"₹ 165,278","₹ 840,798",West India
+2025-01-13,AD003,Placements,LinkedIn,22–27 Age,146482,4711,931,572,338,"₹ 141,930","₹ 2,174,372",North India
+2025-01-14,AD003,Placements,LinkedIn,22–27 Age,266480,8507,1449,740,346,"₹ 179,057","₹ 2,625,758",Pan India
+2025-01-15,AD003,Placements,LinkedIn,22–27 Age,119877,5157,853,489,196,"₹ 55,662","₹ 601,880",East India
+2025-01-16,AD003,Placements,LinkedIn,25–35 Age,258617,11130,2706,1265,634,"₹ 220,389","₹ 3,969,228",East India
+2025-01-17,AD003,Placements,LinkedIn,25–35 Age,286009,20719,3174,1988,1183,"₹ 159,981","₹ 5,016,567",North India
+2025-01-18,AD003,Placements,LinkedIn,22–27 Age,143217,6695,1166,607,327,"₹ 67,854","₹ 1,547,241",South India
+2025-01-19,AD003,Placements,LinkedIn,22–27 Age,72167,3593,602,351,197,"₹ 70,366","₹ 1,134,509",East India
+2025-01-20,AD003,Placements,LinkedIn,22–27 Age,239490,16490,2821,1500,857,"₹ 231,253","₹ 2,591,071",Pan India
+2025-01-21,AD003,Placements,LinkedIn,22–27 Age,114858,8995,2140,1042,585,"₹ 109,054","₹ 3,742,052",Pan India
+2025-01-22,AD003,Placements,LinkedIn,25–35 Age,287469,15650,3709,1899,784,"₹ 253,283","₹ 2,874,025",West India
+2025-01-23,AD003,Placements,LinkedIn,22–27 Age,160382,12822,2675,1467,670,"₹ 98,851","₹ 3,011,981",Pan India
+2025-01-24,AD003,Placements,LinkedIn,22–27 Age,87341,6016,1290,669,315,"₹ 35,139","₹ 2,092,169",East India
+2025-01-25,AD003,Placements,LinkedIn,22–27 Age,184938,6118,1450,865,478,"₹ 132,227","₹ 1,439,934",North India
+2025-01-26,AD003,Placements,LinkedIn,22–27 Age,63670,3261,779,463,260,"₹ 57,921","₹ 1,810,451",North India
+2025-01-27,AD003,Placements,LinkedIn,17–21 Age,182711,13431,2341,1427,816,"₹ 123,017","₹ 5,356,819",North India
+2025-01-28,AD003,Placements,LinkedIn,17–21 Age,228212,18002,4371,2526,1404,"₹ 140,065","₹ 6,510,696",South India
+2025-01-29,AD003,Placements,LinkedIn,25–35 Age,258910,20306,3105,1415,615,"₹ 196,117","₹ 4,520,782",East India
+2025-01-30,AD003,Placements,LinkedIn,17–21 Age,90143,2803,540,314,175,"₹ 40,657","₹ 1,007,449",Pan India
+2025-01-31,AD003,Placements,LinkedIn,22–27 Age,85144,3382,587,296,155,"₹ 42,903","₹ 564,840",Pan India
+2025-02-01,AD003,Placements,LinkedIn,25–35 Age,247492,18132,4384,2710,1613,"₹ 189,072","₹ 6,367,802",East India
+2025-02-02,AD003,Placements,LinkedIn,25–35 Age,131901,8460,1385,816,412,"₹ 123,943","₹ 2,536,624",East India
+2025-02-03,AD003,Placements,LinkedIn,25–35 Age,228466,8425,1286,782,385,"₹ 169,210","₹ 1,194,708",East India
+2025-02-04,AD003,Placements,LinkedIn,17–21 Age,224736,14914,3722,2167,1264,"₹ 217,968","₹ 3,957,313",West India
+2025-02-05,AD003,Placements,LinkedIn,25–35 Age,169022,13204,3261,1590,892,"₹ 147,597","₹ 2,727,577",West India
+2025-02-06,AD003,Placements,LinkedIn,17–21 Age,171440,12089,2871,1782,734,"₹ 118,812","₹ 2,681,533",North India
+2025-02-07,AD003,Placements,LinkedIn,25–35 Age,157459,9897,2312,1209,650,"₹ 142,697","₹ 2,825,372",North India
+2025-02-08,AD003,Placements,LinkedIn,22–27 Age,65423,3275,709,417,179,"₹ 31,628","₹ 642,831",Pan India
+2025-02-09,AD003,Placements,LinkedIn,25–35 Age,194699,6867,1321,634,310,"₹ 138,100","₹ 2,251,051",East India
+2025-02-10,AD003,Placements,LinkedIn,17–21 Age,258921,15451,3155,1580,846,"₹ 123,849","₹ 2,990,117",South India
+2025-02-11,AD003,Placements,LinkedIn,22–27 Age,127232,9034,1736,1112,517,"₹ 111,617","₹ 3,367,905",East India
+2025-02-12,AD003,Placements,LinkedIn,17–21 Age,183701,10838,1745,807,469,"₹ 163,800","₹ 2,978,653",Pan India
+2025-02-13,AD003,Placements,LinkedIn,17–21 Age,61637,4452,790,460,264,"₹ 35,763","₹ 1,837,128",South India
+2025-02-14,AD003,Placements,LinkedIn,17–21 Age,115475,6434,1594,911,456,"₹ 55,075","₹ 1,536,942",East India
+2025-02-15,AD003,Placements,LinkedIn,17–21 Age,242487,10557,1644,940,476,"₹ 137,455","₹ 2,658,068",North India
+2025-02-16,AD003,Placements,LinkedIn,25–35 Age,236585,7923,1495,848,467,"₹ 129,801","₹ 3,083,696",East India
+2025-02-17,AD003,Placements,LinkedIn,22–27 Age,109605,8284,1935,1132,663,"₹ 61,086","₹ 2,830,035",Pan India
+2025-02-18,AD003,Placements,LinkedIn,17–21 Age,59185,4390,1044,588,283,"₹ 39,768","₹ 1,548,093",North India
+2025-02-19,AD003,Placements,LinkedIn,17–21 Age,183593,5650,1015,541,288,"₹ 78,874","₹ 867,565",Pan India
+2025-02-20,AD003,Placements,LinkedIn,22–27 Age,115658,6141,1182,685,302,"₹ 81,668","₹ 2,031,836",South India
+2025-02-21,AD003,Placements,LinkedIn,25–35 Age,125536,6373,1242,763,414,"₹ 81,484","₹ 3,091,571",South India
+2025-02-22,AD003,Placements,LinkedIn,25–35 Age,279784,19574,4822,2939,1343,"₹ 143,229","₹ 6,633,392",North India
+2025-02-23,AD003,Placements,LinkedIn,22–27 Age,141610,8320,1667,1053,595,"₹ 71,547","₹ 4,297,340",South India
+2025-02-24,AD003,Placements,LinkedIn,25–35 Age,145064,7505,1364,661,346,"₹ 74,278","₹ 1,181,975",South India
+2025-02-25,AD003,Placements,LinkedIn,17–21 Age,298028,20642,4696,2781,1630,"₹ 284,889","₹ 11,577,296",East India
+2025-02-26,AD003,Placements,LinkedIn,22–27 Age,82925,5003,1088,544,317,"₹ 49,214","₹ 2,410,737",East India
+2025-02-27,AD003,Placements,LinkedIn,22–27 Age,113983,4651,940,445,184,"₹ 79,831","₹ 692,151",North India
+2025-02-28,AD003,Placements,LinkedIn,25–35 Age,103093,3235,665,347,181,"₹ 70,780","₹ 1,258,576",North India
+2025-03-01,AD003,Placements,LinkedIn,17–21 Age,53653,2463,459,282,149,"₹ 37,105","₹ 1,030,119",East India
+2025-03-02,AD003,Placements,LinkedIn,17–21 Age,231442,13709,2805,1555,749,"₹ 207,424","₹ 4,028,445",West India
+2025-03-03,AD003,Placements,LinkedIn,25–35 Age,134246,8250,1329,727,429,"₹ 78,290","₹ 2,346,719",West India
+2025-03-04,AD003,Placements,LinkedIn,17–21 Age,131176,5409,1273,750,449,"₹ 67,190","₹ 3,326,521",South India
+2025-03-05,AD003,Placements,LinkedIn,25–35 Age,75507,4191,800,373,220,"₹ 68,079","₹ 1,653,603",South India
+2025-03-06,AD003,Placements,LinkedIn,22–27 Age,188977,11714,2647,1690,798,"₹ 113,365","₹ 5,029,868",East India
+2025-03-07,AD003,Placements,LinkedIn,22–27 Age,252677,9888,1997,964,578,"₹ 105,631","₹ 3,700,569",North India
+2025-03-08,AD003,Placements,LinkedIn,17–21 Age,146366,8269,1633,979,429,"₹ 108,116","₹ 2,625,145",East India
+2025-03-09,AD003,Placements,LinkedIn,25–35 Age,134757,6182,1265,682,294,"₹ 74,427","₹ 1,368,571",West India
+2025-03-10,AD003,Placements,LinkedIn,22–27 Age,258417,18909,4020,2269,1059,"₹ 140,622","₹ 7,367,765",North India
+2025-03-11,AD003,Placements,LinkedIn,22–27 Age,209874,11904,2886,1634,908,"₹ 156,283","₹ 4,945,753",Pan India
+2025-03-12,AD003,Placements,LinkedIn,17–21 Age,142999,4752,762,444,200,"₹ 92,319","₹ 795,253",Pan India
+2025-03-13,AD003,Placements,LinkedIn,17–21 Age,250958,19914,4316,2505,1303,"₹ 101,671","₹ 4,200,194",Pan India
+2025-03-14,AD003,Placements,LinkedIn,22–27 Age,286615,14860,3405,1582,809,"₹ 174,371","₹ 6,056,441",North India
+2025-03-15,AD003,Placements,LinkedIn,17–21 Age,184520,9112,2248,1022,476,"₹ 93,561","₹ 2,941,653",North India
+2025-03-16,AD003,Placements,LinkedIn,22–27 Age,143329,8242,2029,1135,533,"₹ 135,105","₹ 2,328,048",Pan India
+2025-03-17,AD003,Placements,LinkedIn,17–21 Age,265195,10327,2049,1182,589,"₹ 179,629","₹ 4,703,748",South India
+2025-03-18,AD003,Placements,LinkedIn,17–21 Age,122661,9777,2435,1113,594,"₹ 87,088","₹ 4,550,063",South India
+2025-03-19,AD003,Placements,LinkedIn,25–35 Age,256063,19097,2939,1547,914,"₹ 201,254","₹ 5,172,876",East India
+2025-03-20,AD003,Placements,LinkedIn,22–27 Age,107546,4153,907,465,194,"₹ 97,758","₹ 602,707",West India
+2025-03-21,AD003,Placements,LinkedIn,25–35 Age,171811,7500,1283,812,351,"₹ 97,293","₹ 2,485,360",Pan India
+2025-03-22,AD003,Placements,LinkedIn,25–35 Age,299755,10495,1933,948,547,"₹ 136,255","₹ 3,682,669",East India
+2025-03-23,AD003,Placements,LinkedIn,25–35 Age,196757,9869,2126,1008,595,"₹ 188,439","₹ 4,032,011",North India
+2025-03-24,AD003,Placements,LinkedIn,22–27 Age,99084,7882,1585,875,446,"₹ 56,260","₹ 3,403,229",Pan India
+2025-03-25,AD003,Placements,LinkedIn,22–27 Age,151038,4667,856,417,238,"₹ 81,008","₹ 1,443,401",Pan India
+2025-03-26,AD003,Placements,LinkedIn,22–27 Age,261569,10863,2582,1521,869,"₹ 245,885","₹ 3,687,397",Pan India
+2025-03-27,AD003,Placements,LinkedIn,22–27 Age,242681,16801,3043,1834,1029,"₹ 237,908","₹ 7,686,272",Pan India
+2025-03-28,AD003,Placements,LinkedIn,17–21 Age,141344,6626,1362,827,451,"₹ 134,142","₹ 1,833,932",South India
+2025-03-29,AD003,Placements,LinkedIn,22–27 Age,229820,11047,2019,1120,565,"₹ 204,935","₹ 2,057,875",East India
+2025-03-30,AD003,Placements,LinkedIn,25–35 Age,67576,2896,633,348,156,"₹ 59,665","₹ 761,452",North India
+2025-03-31,AD003,Placements,LinkedIn,22–27 Age,203412,13404,3282,1607,645,"₹ 201,829","₹ 2,389,204",North India
+2025-04-01,AD003,Placements,LinkedIn,22–27 Age,188004,6449,1209,590,328,"₹ 130,079","₹ 1,460,236",West India
+2025-04-02,AD003,Placements,LinkedIn,22–27 Age,126338,5512,1277,670,387,"₹ 68,198","₹ 1,772,957",Pan India
+2025-04-03,AD003,Placements,LinkedIn,22–27 Age,183191,6099,1415,770,397,"₹ 74,337","₹ 1,467,961",North India
+2025-04-04,AD003,Placements,LinkedIn,22–27 Age,84849,3217,556,340,176,"₹ 58,482","₹ 1,379,402",Pan India
+2025-04-05,AD003,Placements,LinkedIn,25–35 Age,197504,8509,1516,789,455,"₹ 104,867","₹ 3,305,229",Pan India
+2025-04-06,AD003,Placements,LinkedIn,25–35 Age,69154,4707,1042,628,284,"₹ 35,917","₹ 1,254,290",West India
+2025-04-07,AD003,Placements,LinkedIn,22–27 Age,289761,22640,4750,2972,1259,"₹ 178,162","₹ 4,800,374",Pan India
+2025-04-08,AD003,Placements,LinkedIn,22–27 Age,110803,4456,876,468,219,"₹ 101,062","₹ 951,963",North India
+2025-04-09,AD003,Placements,LinkedIn,22–27 Age,239425,15902,2926,1870,851,"₹ 148,343","₹ 5,872,468",North India
+2025-04-10,AD003,Placements,LinkedIn,17–21 Age,70240,5540,925,577,307,"₹ 40,196","₹ 1,662,472",South India
+2025-04-11,AD003,Placements,LinkedIn,25–35 Age,138678,6834,1173,590,294,"₹ 98,500","₹ 1,157,268",East India
+2025-04-12,AD003,Placements,LinkedIn,22–27 Age,263247,19300,3627,2251,1126,"₹ 214,029","₹ 8,518,494",West India
+2025-04-13,AD003,Placements,LinkedIn,17–21 Age,171458,10003,1964,1248,648,"₹ 93,165","₹ 4,778,047",East India
+2025-04-14,AD003,Placements,LinkedIn,22–27 Age,172696,13622,2087,1215,682,"₹ 172,286","₹ 4,380,214",North India
+2025-04-15,AD003,Placements,LinkedIn,17–21 Age,254916,18774,2891,1575,935,"₹ 166,573","₹ 5,819,811",Pan India
+2025-04-16,AD003,Placements,LinkedIn,17–21 Age,297311,12824,2266,1065,566,"₹ 177,196","₹ 4,455,321",South India
+2025-04-17,AD003,Placements,LinkedIn,22–27 Age,187876,14537,3326,1964,1057,"₹ 100,656","₹ 4,478,373",Pan India
+2025-04-18,AD003,Placements,LinkedIn,17–21 Age,286470,17503,2821,1744,734,"₹ 214,087","₹ 2,364,929",South India
+2025-04-19,AD003,Placements,LinkedIn,22–27 Age,162404,11970,2624,1217,633,"₹ 107,824","₹ 4,731,469",Pan India
+2025-04-20,AD003,Placements,LinkedIn,25–35 Age,70773,2354,502,320,137,"₹ 37,945","₹ 641,297",South India
+2025-04-21,AD003,Placements,LinkedIn,25–35 Age,92159,7283,1706,985,420,"₹ 83,018","₹ 3,155,987",West India
+2025-04-22,AD003,Placements,LinkedIn,17–21 Age,214210,12044,2322,1116,510,"₹ 92,410","₹ 4,047,072",East India
+2025-04-23,AD003,Placements,LinkedIn,17–21 Age,89597,3957,914,497,220,"₹ 56,902","₹ 917,613",East India
+2025-04-24,AD003,Placements,LinkedIn,22–27 Age,219815,15931,2530,1544,888,"₹ 106,057","₹ 6,164,864",Pan India
+2025-04-25,AD003,Placements,LinkedIn,17–21 Age,155800,6865,1272,765,363,"₹ 69,361","₹ 1,831,892",East India
+2025-04-26,AD003,Placements,LinkedIn,25–35 Age,78865,2545,595,378,152,"₹ 70,156","₹ 1,136,109",Pan India
+2025-04-27,AD003,Placements,LinkedIn,25–35 Age,106441,7731,1827,1072,449,"₹ 93,060","₹ 1,626,664",Pan India
+2025-04-28,AD003,Placements,LinkedIn,22–27 Age,108582,6075,1445,861,472,"₹ 61,992","₹ 2,863,429",South India
+2025-04-29,AD003,Placements,LinkedIn,22–27 Age,203313,15538,2353,1144,655,"₹ 145,045","₹ 4,987,054",West India
+2025-04-30,AD003,Placements,LinkedIn,25–35 Age,220384,8142,1402,907,369,"₹ 152,035","₹ 2,102,560",Pan India
+2025-05-01,AD002,MBA Admission,Facebook,21–35 Age,240139,11309,1987,1165,696,"₹ 180,456","₹ 4,208,818",Pan India
+2025-05-01,AD003,Placements,LinkedIn,22–27 Age,289903,22942,4003,2536,1136,"₹ 276,282","₹ 6,468,438",East India
+2025-05-02,AD002,MBA Admission,Facebook,21–35 Age,145953,6934,1681,974,435,"₹ 80,170","₹ 2,531,629",West India
+2025-05-02,AD003,Placements,LinkedIn,17–21 Age,224774,8087,1510,927,437,"₹ 144,247","₹ 2,806,122",Pan India
+2025-05-03,AD002,MBA Admission,Facebook,21–35 Age,125764,4601,978,630,302,"₹ 67,772","₹ 2,349,380",North India
+2025-05-03,AD003,Placements,LinkedIn,22–27 Age,283215,9156,1720,956,382,"₹ 274,488","₹ 1,491,751",East India
+2025-05-04,AD002,MBA Admission,Facebook,21–35 Age,254360,11109,2734,1480,668,"₹ 226,645","₹ 2,792,260",North India
+2025-05-04,AD003,Placements,LinkedIn,25–35 Age,67770,4813,744,355,155,"₹ 62,523","₹ 1,032,514",South India
+2025-05-05,AD002,MBA Admission,Facebook,21–35 Age,208578,12706,2381,1311,655,"₹ 116,823","₹ 2,987,312",West India
+2025-05-05,AD003,Placements,LinkedIn,22–27 Age,104892,8197,1255,616,347,"₹ 51,519","₹ 2,149,275",East India
+2025-05-06,AD002,MBA Admission,Facebook,21–35 Age,174201,12488,2889,1838,796,"₹ 133,968","₹ 4,993,434",West India
+2025-05-06,AD003,Placements,LinkedIn,22–27 Age,204932,9551,2028,1175,688,"₹ 119,604","₹ 2,530,464",South India
+2025-05-07,AD002,MBA Admission,Facebook,21–35 Age,281251,18428,4606,2913,1585,"₹ 223,350","₹ 7,253,636",Pan India
+2025-05-07,AD003,Placements,LinkedIn,22–27 Age,126647,7408,1738,883,464,"₹ 97,271","₹ 1,785,615",Pan India
+2025-05-08,AD002,MBA Admission,Facebook,21–35 Age,97979,3175,583,301,168,"₹ 58,564","₹ 529,564",East India
+2025-05-08,AD003,Placements,LinkedIn,25–35 Age,154994,5796,1347,863,431,"₹ 121,039","₹ 2,196,417",South India
+2025-05-09,AD002,MBA Admission,Facebook,21–35 Age,258980,19662,3598,1763,758,"₹ 228,072","₹ 4,909,074",North India
+2025-05-09,AD003,Placements,LinkedIn,22–27 Age,108431,6177,1134,595,240,"₹ 100,524","₹ 897,404",East India
+2025-05-10,AD002,MBA Admission,Facebook,21–35 Age,51259,3592,541,312,131,"₹ 24,424","₹ 722,680",Pan India
+2025-05-10,AD003,Placements,LinkedIn,22–27 Age,128908,5068,994,535,273,"₹ 101,892","₹ 1,320,648",Pan India
+2025-05-11,AD002,MBA Admission,Facebook,21–35 Age,107884,5598,1238,596,240,"₹ 51,644","₹ 862,353",South India
+2025-05-11,AD003,Placements,LinkedIn,22–27 Age,281759,18036,3182,2035,1042,"₹ 149,264","₹ 7,035,403",Pan India
+2025-05-12,AD002,MBA Admission,Facebook,21–35 Age,109219,6309,1002,621,302,"₹ 80,142","₹ 1,535,750",Pan India
+2025-05-12,AD003,Placements,LinkedIn,17–21 Age,56655,3075,664,314,152,"₹ 22,690","₹ 1,129,548",Pan India
+2025-05-13,AD002,MBA Admission,Facebook,21–35 Age,127468,5926,1247,622,336,"₹ 101,926","₹ 1,859,497",North India
+2025-05-13,AD003,Placements,LinkedIn,22–27 Age,263989,20499,4960,3112,1581,"₹ 241,711","₹ 10,422,583",East India
+2025-05-14,AD002,MBA Admission,Facebook,21–35 Age,216556,14437,2858,1623,754,"₹ 187,568","₹ 2,602,263",North India
+2025-05-14,AD003,Placements,LinkedIn,25–35 Age,176419,6312,1409,877,517,"₹ 156,086","₹ 3,922,073",North India
+2025-05-15,AD002,MBA Admission,Facebook,21–35 Age,104288,4814,768,360,179,"₹ 86,527","₹ 937,903",West India
+2025-05-15,AD003,Placements,LinkedIn,25–35 Age,246319,18568,2933,1874,956,"₹ 223,804","₹ 5,348,862",Pan India
+2025-05-16,AD002,MBA Admission,Facebook,21–35 Age,272620,19195,3980,1800,723,"₹ 190,014","₹ 4,634,332",East India
+2025-05-16,AD003,Placements,LinkedIn,17–21 Age,135416,9754,1804,831,444,"₹ 111,777","₹ 2,526,118",West India
+2025-05-17,AD002,MBA Admission,Facebook,21–35 Age,205846,16047,2839,1461,602,"₹ 109,112","₹ 3,266,643",Pan India
+2025-05-17,AD003,Placements,LinkedIn,17–21 Age,277369,9937,2473,1558,780,"₹ 197,983","₹ 4,085,032",West India
+2025-05-18,AD002,MBA Admission,Facebook,21–35 Age,73028,3043,537,345,157,"₹ 45,541","₹ 698,668",North India
+2025-05-18,AD003,Placements,LinkedIn,17–21 Age,154431,8758,1526,770,401,"₹ 67,379","₹ 3,182,834",South India
+2025-05-19,AD002,MBA Admission,Facebook,21–35 Age,129271,8596,1731,909,413,"₹ 61,224","₹ 3,212,616",East India
+2025-05-19,AD003,Placements,LinkedIn,25–35 Age,294707,9304,1777,925,464,"₹ 171,711","₹ 1,435,656",Pan India
+2025-05-20,AD002,MBA Admission,Facebook,21–35 Age,163842,7426,1233,778,374,"₹ 74,195","₹ 2,531,864",North India
+2025-05-20,AD003,Placements,LinkedIn,25–35 Age,170906,10548,1817,1173,608,"₹ 123,281","₹ 2,911,292",Pan India
+2025-05-21,AD002,MBA Admission,Facebook,21–35 Age,61054,3895,951,543,240,"₹ 25,074","₹ 1,266,942",Pan India
+2025-05-21,AD003,Placements,LinkedIn,22–27 Age,121352,4064,696,357,180,"₹ 54,959","₹ 941,034",South India
+2025-05-22,AD002,MBA Admission,Facebook,21–35 Age,109881,4764,991,450,232,"₹ 99,135","₹ 1,580,448",North India
+2025-05-22,AD003,Placements,LinkedIn,17–21 Age,228338,16682,2885,1390,593,"₹ 202,855","₹ 4,698,879",Pan India
+2025-05-23,AD002,MBA Admission,Facebook,21–35 Age,138950,8247,1433,743,371,"₹ 87,585","₹ 2,275,198",East India
+2025-05-23,AD003,Placements,LinkedIn,25–35 Age,81571,6335,1288,609,288,"₹ 69,380","₹ 1,003,969",North India
+2025-05-24,AD002,MBA Admission,Facebook,21–35 Age,261935,11611,1967,1027,604,"₹ 209,519","₹ 3,096,991",North India
+2025-05-24,AD003,Placements,LinkedIn,22–27 Age,107849,6825,1489,749,394,"₹ 81,201","₹ 1,255,932",Pan India
+2025-05-25,AD002,MBA Admission,Facebook,21–35 Age,199889,7676,1181,628,295,"₹ 160,449","₹ 1,422,894",East India
+2025-05-25,AD003,Placements,LinkedIn,17–21 Age,221701,9472,2148,1063,587,"₹ 167,628","₹ 3,363,822",North India
+2025-05-26,AD002,MBA Admission,Facebook,21–35 Age,95432,7312,1525,799,461,"₹ 75,782","₹ 2,142,554",Pan India
+2025-05-26,AD003,Placements,LinkedIn,25–35 Age,258060,19102,4745,2505,1316,"₹ 149,089","₹ 8,726,521",Pan India
+2025-05-27,AD002,MBA Admission,Facebook,21–35 Age,161958,8826,1937,906,520,"₹ 70,026","₹ 3,944,516",North India
+2025-05-27,AD003,Placements,LinkedIn,22–27 Age,298878,16202,3092,1903,1055,"₹ 156,886","₹ 7,149,954",West India
+2025-05-28,AD002,MBA Admission,Facebook,21–35 Age,107903,3524,729,457,206,"₹ 103,431","₹ 1,353,200",West India
+2025-05-28,AD003,Placements,LinkedIn,22–27 Age,173020,10599,1880,1217,720,"₹ 77,910","₹ 3,240,631",North India
+2025-05-29,AD002,MBA Admission,Facebook,21–35 Age,208326,16547,2535,1311,579,"₹ 128,715","₹ 2,105,893",West India
+2025-05-29,AD003,Placements,LinkedIn,17–21 Age,254367,11373,2455,1286,523,"₹ 144,783","₹ 3,534,997",Pan India
+2025-05-30,AD002,MBA Admission,Facebook,21–35 Age,221642,16515,3805,2059,1044,"₹ 213,044","₹ 5,794,496",East India
+2025-05-30,AD003,Placements,LinkedIn,22–27 Age,171248,12218,1850,1118,623,"₹ 161,174","₹ 4,380,151",West India
+2025-05-31,AD002,MBA Admission,Facebook,21–35 Age,172441,10888,1929,985,439,"₹ 111,414","₹ 2,807,015",Pan India
+2025-05-31,AD003,Placements,LinkedIn,22–27 Age,79898,3387,708,348,144,"₹ 46,054","₹ 664,446",North India
+2025-06-01,AD002,MBA Admission,Facebook,21–35 Age,179655,5969,1158,725,292,"₹ 107,638","₹ 1,673,093",East India
+2025-06-02,AD002,MBA Admission,Facebook,21–35 Age,112007,7687,1249,590,333,"₹ 69,690","₹ 1,849,660",Pan India
+2025-06-03,AD002,MBA Admission,Facebook,21–35 Age,77080,2952,558,255,145,"₹ 53,641","₹ 668,676",East India
+2025-06-04,AD002,MBA Admission,Facebook,21–35 Age,247271,13740,2356,1075,541,"₹ 224,943","₹ 3,479,855",Pan India
+2025-06-05,AD002,MBA Admission,Facebook,21–35 Age,228774,15253,3595,2264,989,"₹ 192,239","₹ 3,767,178",West India
+2025-06-06,AD002,MBA Admission,Facebook,21–35 Age,140336,10973,2525,1411,738,"₹ 101,942","₹ 3,405,727",West India
+2025-06-07,AD002,MBA Admission,Facebook,21–35 Age,255443,9636,2306,1082,528,"₹ 108,919","₹ 1,641,516",South India
+2025-06-08,AD002,MBA Admission,Facebook,21–35 Age,153084,4907,999,538,307,"₹ 97,654","₹ 1,586,488",North India
+2025-06-09,AD002,MBA Admission,Facebook,21–35 Age,114699,4802,801,375,175,"₹ 79,600","₹ 1,126,491",South India
+2025-06-10,AD002,MBA Admission,Facebook,21–35 Age,228607,11316,2761,1577,831,"₹ 199,080","₹ 5,513,048",West India
+2025-06-11,AD002,MBA Admission,Facebook,21–35 Age,115246,7658,1593,756,338,"₹ 111,946","₹ 2,482,397",South India
+2025-06-12,AD002,MBA Admission,Facebook,21–35 Age,265508,9396,1593,898,489,"₹ 184,409","₹ 2,219,085",West India
+2025-06-13,AD002,MBA Admission,Facebook,21–35 Age,52092,2486,570,350,191,"₹ 35,364","₹ 1,423,039",South India
+2025-06-14,AD002,MBA Admission,Facebook,21–35 Age,287149,12655,2180,1116,601,"₹ 241,882","₹ 4,227,410",East India
+2025-06-15,AD002,MBA Admission,Facebook,21–35 Age,149833,7012,1494,738,297,"₹ 131,425","₹ 1,614,620",West India
+2025-06-16,AD002,MBA Admission,Facebook,21–35 Age,255927,12698,2565,1291,774,"₹ 163,441","₹ 4,081,467",West India
+2025-06-17,AD002,MBA Admission,Facebook,21–35 Age,234335,11764,1932,992,435,"₹ 164,277","₹ 1,544,375",East India
+2025-06-18,AD002,MBA Admission,Facebook,21–35 Age,146202,11655,2425,1140,460,"₹ 79,711","₹ 2,166,582",North India
+2025-06-19,AD002,MBA Admission,Facebook,21–35 Age,169807,5900,1002,543,271,"₹ 167,494","₹ 1,293,759",West India
+2025-06-20,AD002,MBA Admission,Facebook,21–35 Age,51060,2259,559,276,121,"₹ 41,121","₹ 556,625",Pan India
+2025-06-21,AD002,MBA Admission,Facebook,21–35 Age,299910,23654,5219,2461,1471,"₹ 147,277","₹ 7,040,895",East India
+2025-06-22,AD002,MBA Admission,Facebook,21–35 Age,118757,6909,1251,711,363,"₹ 97,101","₹ 2,733,839",East India
+2025-06-23,AD002,MBA Admission,Facebook,21–35 Age,215965,16744,3264,1645,772,"₹ 138,967","₹ 3,706,915",Pan India
+2025-06-24,AD002,MBA Admission,Facebook,21–35 Age,251296,15390,3332,1741,721,"₹ 235,594","₹ 5,070,650",Pan India
+2025-06-25,AD002,MBA Admission,Facebook,21–35 Age,58479,3449,525,332,138,"₹ 36,555","₹ 944,562",Pan India
+2025-06-26,AD002,MBA Admission,Facebook,21–35 Age,89905,4837,875,550,241,"₹ 51,333","₹ 1,062,504",Pan India
+2025-06-27,AD002,MBA Admission,Facebook,21–35 Age,92090,5092,879,474,260,"₹ 84,474","₹ 1,445,950",Pan India
+2025-06-28,AD002,MBA Admission,Facebook,21–35 Age,118966,6945,1680,1063,602,"₹ 86,687","₹ 1,924,916",North India
+2025-06-29,AD002,MBA Admission,Facebook,21–35 Age,54787,2701,414,256,108,"₹ 23,226","₹ 639,600",Pan India
+2025-06-30,AD002,MBA Admission,Facebook,21–35 Age,81314,3799,757,427,191,"₹ 47,761","₹ 1,085,518",East India
+2025-07-01,AD002,MBA Admission,Facebook,21–35 Age,92036,5655,1370,718,314,"₹ 63,224","₹ 1,366,952",Pan India
+2025-07-02,AD002,MBA Admission,Facebook,21–35 Age,269403,18663,4144,2502,1360,"₹ 150,892","₹ 8,181,786",South India
+2025-07-03,AD002,MBA Admission,Facebook,21–35 Age,56759,4315,975,572,279,"₹ 47,812","₹ 1,401,844",Pan India
+2025-07-04,AD002,MBA Admission,Facebook,21–35 Age,294725,14169,3083,1956,783,"₹ 267,574","₹ 2,450,852",East India
+2025-07-05,AD002,MBA Admission,Facebook,21–35 Age,284349,9408,1926,1228,734,"₹ 145,135","₹ 3,166,145",Pan India
+2025-07-06,AD002,MBA Admission,Facebook,21–35 Age,215773,11011,2592,1638,787,"₹ 114,990","₹ 3,955,862",East India
+2025-07-07,AD002,MBA Admission,Facebook,21–35 Age,265814,18135,3413,1802,979,"₹ 178,984","₹ 4,945,617",Pan India
+2025-07-08,AD002,MBA Admission,Facebook,21–35 Age,254425,11942,2510,1384,700,"₹ 163,582","₹ 5,486,851",North India
+2025-07-09,AD002,MBA Admission,Facebook,21–35 Age,259369,9336,2252,1107,588,"₹ 154,590","₹ 3,499,060",South India
+2025-07-10,AD002,MBA Admission,Facebook,21–35 Age,221044,13069,2745,1298,558,"₹ 160,690","₹ 3,236,188",North India
+2025-07-11,AD002,MBA Admission,Facebook,21–35 Age,94706,5747,890,494,278,"₹ 65,416","₹ 2,144,560",Pan India
+2025-07-12,AD002,MBA Admission,Facebook,21–35 Age,176503,10957,1846,985,397,"₹ 145,083","₹ 1,468,397",East India
+2025-07-13,AD002,MBA Admission,Facebook,21–35 Age,237358,14516,2484,1272,548,"₹ 133,175","₹ 4,227,791",South India
+2025-07-14,AD002,MBA Admission,Facebook,21–35 Age,50848,3877,825,405,190,"₹ 43,222","₹ 1,323,601",West India
+2025-07-15,AD002,MBA Admission,Facebook,21–35 Age,96272,7109,1160,673,373,"₹ 61,170","₹ 1,645,197",Pan India
+2025-07-16,AD002,MBA Admission,Facebook,21–35 Age,163136,7760,1293,616,309,"₹ 81,536","₹ 1,996,808",South India
+2025-07-17,AD002,MBA Admission,Facebook,21–35 Age,224881,13220,2919,1678,726,"₹ 209,811","₹ 4,054,986",South India
+2025-07-18,AD002,MBA Admission,Facebook,21–35 Age,107896,6609,1436,892,459,"₹ 104,215","₹ 2,367,563",East India
+2025-07-19,AD002,MBA Admission,Facebook,21–35 Age,100529,3042,580,326,173,"₹ 52,428","₹ 1,269,806",East India
+2025-07-20,AD002,MBA Admission,Facebook,21–35 Age,59847,4601,734,338,157,"₹ 24,580","₹ 524,653",North India
+2025-07-21,AD002,MBA Admission,Facebook,21–35 Age,183044,9780,2113,1094,518,"₹ 149,648","₹ 2,135,225",East India
+2025-07-22,AD002,MBA Admission,Facebook,21–35 Age,295519,20154,3461,1995,1138,"₹ 221,471","₹ 8,555,770",North India
+2025-07-23,AD002,MBA Admission,Facebook,21–35 Age,102281,7277,1524,814,398,"₹ 41,675","₹ 2,247,548",North India
+2025-07-24,AD002,MBA Admission,Facebook,21–35 Age,69228,2248,378,231,127,"₹ 47,889","₹ 980,730",North India
+2025-07-25,AD002,MBA Admission,Facebook,21–35 Age,195078,11378,2824,1362,720,"₹ 101,190","₹ 4,473,022",North India
+2025-07-26,AD002,MBA Admission,Facebook,21–35 Age,98148,6924,1556,839,415,"₹ 82,010","₹ 2,689,713",East India
+2025-07-27,AD002,MBA Admission,Facebook,21–35 Age,288669,16685,2685,1692,697,"₹ 197,363","₹ 2,266,273",West India
+2025-07-28,AD002,MBA Admission,Facebook,21–35 Age,228940,7307,1297,812,445,"₹ 100,965","₹ 1,835,902",South India
+2025-07-29,AD002,MBA Admission,Facebook,21–35 Age,103373,6280,1324,665,319,"₹ 91,235","₹ 1,337,660",Pan India
+2025-07-30,AD002,MBA Admission,Facebook,21–35 Age,183663,7335,1401,843,357,"₹ 159,534","₹ 2,405,412",Pan India
+2025-07-31,AD002,MBA Admission,Facebook,21–35 Age,125289,5916,1354,610,295,"₹ 81,381","₹ 2,009,706",North India
+2025-08-01,AD002,MBA Admission,Facebook,21–35 Age,82289,2865,627,344,153,"₹ 72,603","₹ 791,071",Pan India
+2025-08-02,AD002,MBA Admission,Facebook,21–35 Age,122204,4702,1151,571,334,"₹ 64,655","₹ 1,107,201",South India
+2025-08-03,AD002,MBA Admission,Facebook,21–35 Age,282568,20991,3160,1720,1027,"₹ 254,929","₹ 4,693,041",North India
+2025-08-04,AD002,MBA Admission,Facebook,21–35 Age,276741,8329,2013,1048,550,"₹ 241,422","₹ 3,218,248",West India
+2025-08-05,AD002,MBA Admission,Facebook,21–35 Age,276190,8837,1345,850,400,"₹ 258,735","₹ 1,603,909",West India
+2025-08-06,AD002,MBA Admission,Facebook,21–35 Age,157823,7462,1653,1051,551,"₹ 152,142","₹ 2,267,468",West India
+2025-08-07,AD002,MBA Admission,Facebook,21–35 Age,168164,12919,3045,1753,778,"₹ 141,390","₹ 3,060,298",West India
+2025-08-08,AD002,MBA Admission,Facebook,21–35 Age,196818,10477,1940,1106,531,"₹ 148,549","₹ 4,182,575",South India
+2025-08-09,AD002,MBA Admission,Facebook,21–35 Age,87549,4272,877,466,259,"₹ 55,979","₹ 1,264,913",North India
+2025-08-10,AD002,MBA Admission,Facebook,21–35 Age,209975,7033,1633,987,489,"₹ 104,015","₹ 3,787,589",West India
+2025-08-11,AD002,MBA Admission,Facebook,21–35 Age,248579,16137,3772,2122,1032,"₹ 155,529","₹ 3,706,021",North India
+2025-08-12,AD002,MBA Admission,Facebook,21–35 Age,105929,6513,1176,544,290,"₹ 45,471","₹ 1,842,642",North India
+2025-08-13,AD002,MBA Admission,Facebook,21–35 Age,285906,22490,5143,2920,1595,"₹ 142,185","₹ 5,142,499",North India
+2025-08-14,AD002,MBA Admission,Facebook,21–35 Age,114829,6699,1279,675,334,"₹ 87,179","₹ 2,116,901",West India
+2025-08-15,AD002,MBA Admission,Facebook,21–35 Age,139439,8820,2115,1244,610,"₹ 68,482","₹ 2,965,372",East India
+2025-08-16,AD002,MBA Admission,Facebook,21–35 Age,156143,12051,2488,1574,776,"₹ 67,879","₹ 6,203,500",North India
+2025-08-17,AD002,MBA Admission,Facebook,21–35 Age,240812,8480,1398,794,351,"₹ 97,561","₹ 2,504,595",East India
+2025-08-18,AD002,MBA Admission,Facebook,21–35 Age,138243,8910,1845,909,537,"₹ 101,459","₹ 3,422,258",South India
+2025-08-19,AD002,MBA Admission,Facebook,21–35 Age,218087,9347,2279,1102,475,"₹ 204,861","₹ 2,934,887",East India
+2025-08-20,AD002,MBA Admission,Facebook,21–35 Age,120567,7874,1738,882,513,"₹ 85,981","₹ 2,514,071",East India
+2025-08-21,AD002,MBA Admission,Facebook,21–35 Age,60672,4419,871,435,245,"₹ 51,459","₹ 887,744",North India
+2025-08-22,AD002,MBA Admission,Facebook,21–35 Age,100402,5050,816,428,214,"₹ 59,444","₹ 833,257",South India
+2025-08-23,AD002,MBA Admission,Facebook,21–35 Age,182510,10026,2101,1067,537,"₹ 125,713","₹ 3,892,044",East India
+2025-08-24,AD002,MBA Admission,Facebook,21–35 Age,91784,5762,1342,834,453,"₹ 53,693","₹ 2,444,732",East India
+2025-08-25,AD002,MBA Admission,Facebook,21–35 Age,277958,10817,2519,1222,546,"₹ 258,352","₹ 3,167,583",West India
+2025-08-26,AD002,MBA Admission,Facebook,21–35 Age,192183,10955,1911,982,531,"₹ 99,989","₹ 2,721,880",South India
+2025-08-27,AD002,MBA Admission,Facebook,21–35 Age,263391,15760,2389,1303,686,"₹ 138,919","₹ 3,426,291",West India
+2025-08-28,AD002,MBA Admission,Facebook,21–35 Age,272021,16255,3053,1496,719,"₹ 201,326","₹ 2,668,479",Pan India
+2025-08-29,AD002,MBA Admission,Facebook,21–35 Age,156442,5047,1081,616,364,"₹ 81,570","₹ 1,780,403",North India
+2025-08-30,AD002,MBA Admission,Facebook,21–35 Age,247071,14991,3641,1717,746,"₹ 196,671","₹ 5,676,011",North India
+2025-08-31,AD002,MBA Admission,Facebook,21–35 Age,250143,13827,2421,1432,812,"₹ 246,806","₹ 4,206,185",East India
+2025-09-01,AD002,MBA Admission,Facebook,21–35 Age,107058,3243,768,451,183,"₹ 93,964","₹ 1,201,913",South India
+2025-09-02,AD002,MBA Admission,Facebook,21–35 Age,70747,4626,1107,534,275,"₹ 61,069","₹ 943,624",South India
+2025-09-03,AD002,MBA Admission,Facebook,21–35 Age,239227,14680,3320,1838,874,"₹ 144,170","₹ 6,122,971",Pan India
+2025-09-04,AD002,MBA Admission,Facebook,21–35 Age,205200,14587,2970,1688,853,"₹ 110,817","₹ 5,569,955",East India
+2025-09-05,AD002,MBA Admission,Facebook,21–35 Age,281976,15138,3583,1682,882,"₹ 184,335","₹ 5,829,282",South India
+2025-09-06,AD002,MBA Admission,Facebook,21–35 Age,137599,10631,2329,1429,624,"₹ 116,672","₹ 1,995,280",Pan India
+2025-09-07,AD002,MBA Admission,Facebook,21–35 Age,197813,9162,1467,664,331,"₹ 126,647","₹ 2,242,704",North India
+2025-09-08,AD002,MBA Admission,Facebook,21–35 Age,183517,8806,1894,1152,607,"₹ 156,011","₹ 3,701,255",West India
+2025-09-09,AD002,MBA Admission,Facebook,21–35 Age,92749,6844,1354,704,396,"₹ 68,352","₹ 1,710,347",East India
+2025-09-10,AD002,MBA Admission,Facebook,21–35 Age,242936,9558,1983,1172,687,"₹ 221,405","₹ 3,264,776",South India
+2025-09-11,AD002,MBA Admission,Facebook,21–35 Age,99617,3517,638,340,165,"₹ 43,282","₹ 505,160",East India
+2025-09-12,AD002,MBA Admission,Facebook,21–35 Age,76637,3191,733,446,203,"₹ 74,481","₹ 656,001",Pan India
+2025-09-13,AD002,MBA Admission,Facebook,21–35 Age,166151,7773,1561,853,511,"₹ 164,748","₹ 4,031,732",East India
+2025-09-14,AD002,MBA Admission,Facebook,21–35 Age,107335,5840,883,548,311,"₹ 91,580","₹ 1,951,224",West India
+2025-09-15,AD002,MBA Admission,Facebook,21–35 Age,132078,9148,2250,1070,580,"₹ 89,794","₹ 2,201,670",South India
+2025-09-16,AD002,MBA Admission,Facebook,21–35 Age,101493,6771,1085,554,279,"₹ 77,122","₹ 992,341",West India
+2025-09-17,AD002,MBA Admission,Facebook,21–35 Age,111983,6950,1441,658,268,"₹ 90,692","₹ 1,466,996",North India
+2025-09-18,AD002,MBA Admission,Facebook,21–35 Age,215192,7975,1358,818,362,"₹ 93,532","₹ 2,116,995",North India
+2025-09-19,AD002,MBA Admission,Facebook,21–35 Age,261009,19792,4855,2851,1191,"₹ 193,741","₹ 8,258,759",Pan India
+2025-09-20,AD002,MBA Admission,Facebook,21–35 Age,197776,11695,1855,1099,619,"₹ 120,119","₹ 3,111,027",Pan India
+2025-09-21,AD002,MBA Admission,Facebook,21–35 Age,272006,16516,2535,1364,637,"₹ 121,243","₹ 4,131,057",Pan India
+2025-09-22,AD002,MBA Admission,Facebook,21–35 Age,130283,4990,834,405,218,"₹ 106,683","₹ 987,968",Pan India
+2025-09-23,AD002,MBA Admission,Facebook,21–35 Age,135555,6016,1132,528,291,"₹ 61,224","₹ 2,126,630",North India
+2025-09-24,AD002,MBA Admission,Facebook,21–35 Age,170800,9993,1997,1153,565,"₹ 123,955","₹ 3,933,315",North India
+2025-09-25,AD002,MBA Admission,Facebook,21–35 Age,216281,12275,2743,1436,761,"₹ 153,644","₹ 4,620,520",Pan India
+2025-09-26,AD002,MBA Admission,Facebook,21–35 Age,288814,15144,3229,1667,717,"₹ 184,629","₹ 5,541,723",East India
+2025-09-27,AD002,MBA Admission,Facebook,21–35 Age,63287,2103,392,234,105,"₹ 40,525","₹ 774,682",West India
+2025-09-28,AD002,MBA Admission,Facebook,21–35 Age,84362,5530,851,502,294,"₹ 70,943","₹ 1,046,903",South India
+2025-09-29,AD002,MBA Admission,Facebook,21–35 Age,183268,7046,1579,810,481,"₹ 179,225","₹ 2,698,271",East India
+2025-09-30,AD002,MBA Admission,Facebook,21–35 Age,262678,8632,1659,1014,452,"₹ 114,033","₹ 3,043,418",South India
+2025-10-01,AD002,MBA Admission,Facebook,21–35 Age,96963,4818,1033,523,239,"₹ 77,183","₹ 921,081",West India
+2025-10-02,AD002,MBA Admission,Facebook,21–35 Age,238932,17897,3400,1696,835,"₹ 154,239","₹ 3,986,006",South India
+2025-10-03,AD002,MBA Admission,Facebook,21–35 Age,86613,4270,804,520,293,"₹ 81,879","₹ 2,002,746",South India
+2025-10-04,AD002,MBA Admission,Facebook,21–35 Age,133105,6571,1269,758,414,"₹ 125,866","₹ 2,149,461",East India
+2025-10-05,AD002,MBA Admission,Facebook,21–35 Age,277734,16825,4065,1971,1056,"₹ 248,428","₹ 5,043,351",North India
+2025-10-06,AD002,MBA Admission,Facebook,21–35 Age,116985,8242,1752,845,384,"₹ 92,102","₹ 2,994,089",West India
+2025-10-07,AD002,MBA Admission,Facebook,21–35 Age,229002,17513,3683,2365,1189,"₹ 161,078","₹ 9,344,119",East India
+2025-10-08,AD002,MBA Admission,Facebook,21–35 Age,190424,10827,2153,1389,633,"₹ 105,225","₹ 3,490,888",Pan India
+2025-10-09,AD002,MBA Admission,Facebook,21–35 Age,110972,4268,982,454,200,"₹ 97,230","₹ 1,191,628",East India
+2025-10-10,AD002,MBA Admission,Facebook,21–35 Age,90691,6497,1168,594,242,"₹ 54,234","₹ 815,080",Pan India
+2025-10-11,AD002,MBA Admission,Facebook,21–35 Age,58157,3232,534,257,110,"₹ 53,956","₹ 475,327",East India
+2025-10-12,AD002,MBA Admission,Facebook,21–35 Age,135976,10257,1702,1092,457,"₹ 95,285","₹ 1,968,745",Pan India
+2025-10-13,AD002,MBA Admission,Facebook,21–35 Age,75257,2399,411,199,112,"₹ 34,218","₹ 450,838",East India
+2025-10-14,AD002,MBA Admission,Facebook,21–35 Age,198364,13118,1984,1175,480,"₹ 91,490","₹ 2,452,250",West India
+2025-10-15,AD002,MBA Admission,Facebook,21–35 Age,295919,17609,3372,1885,798,"₹ 153,865","₹ 5,620,586",West India
+2025-10-16,AD002,MBA Admission,Facebook,21–35 Age,219192,9561,2253,1253,681,"₹ 111,858","₹ 2,520,661",East India
+2025-10-17,AD002,MBA Admission,Facebook,21–35 Age,274932,19134,4243,2579,1097,"₹ 235,450","₹ 5,481,452",North India
+2025-10-18,AD002,MBA Admission,Facebook,21–35 Age,73891,5322,940,560,325,"₹ 30,551","₹ 1,890,047",East India
+2025-10-19,AD002,MBA Admission,Facebook,21–35 Age,78968,2541,471,249,121,"₹ 54,841","₹ 399,317",North India
+2025-10-20,AD002,MBA Admission,Facebook,21–35 Age,260789,14483,2729,1300,685,"₹ 217,577","₹ 2,824,587",West India
+2025-10-21,AD002,MBA Admission,Facebook,21–35 Age,134380,6252,1300,685,354,"₹ 132,525","₹ 2,665,107",South India
+2025-10-22,AD002,MBA Admission,Facebook,21–35 Age,287916,10349,1738,838,398,"₹ 115,613","₹ 1,867,784",Pan India
+2025-10-23,AD002,MBA Admission,Facebook,21–35 Age,216575,12444,2477,1587,674,"₹ 147,197","₹ 4,576,964",East India
+2025-10-24,AD002,MBA Admission,Facebook,21–35 Age,71172,4222,908,490,236,"₹ 46,275","₹ 1,760,207",North India
+2025-10-25,AD002,MBA Admission,Facebook,21–35 Age,198682,8609,1832,1094,574,"₹ 80,603","₹ 1,777,848",South India
+2025-10-26,AD002,MBA Admission,Facebook,21–35 Age,87021,6502,1617,998,494,"₹ 46,483","₹ 2,244,804",Pan India
+2025-10-27,AD002,MBA Admission,Facebook,21–35 Age,277676,18342,3757,2032,1017,"₹ 242,232","₹ 5,399,981",South India
+2025-10-28,AD002,MBA Admission,Facebook,21–35 Age,132019,9429,2004,1029,542,"₹ 129,504","₹ 3,403,497",West India
+2025-10-29,AD002,MBA Admission,Facebook,21–35 Age,89527,5616,865,507,215,"₹ 79,012","₹ 1,224,216",West India
+2025-10-30,AD002,MBA Admission,Facebook,21–35 Age,232419,17670,3031,1638,975,"₹ 200,506","₹ 7,007,981",East India
+2025-10-31,AD002,MBA Admission,Facebook,21–35 Age,267804,19472,4863,2431,1100,"₹ 251,059","₹ 6,675,312",Pan India

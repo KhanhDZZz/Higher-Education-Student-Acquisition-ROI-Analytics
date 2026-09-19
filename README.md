@@ -57,3 +57,6 @@ Through a total spend of **$91.45M**, the campaign generated **$2.17B in total r
 1. **Reallocate Budget to High-Efficiency Vectors:** Shift budget allocation toward **LinkedIn** and **Carousel Ad Formats** to capitalize on lower CPL/CAC metrics and maximize net ROAS.
 2. **Optimize Top-of-Funnel Experience:** Focus CRO (Conversion Rate Optimization) efforts on landing pages and lead forms to improve the initial **Click-to-Lead conversion rate (19.91%)**, leveraging the strong downstream nurture pipeline.
 3. **Double-Down on Core Demographic:** Maintain primary media focus on the **17–21 demographic**, refining ad messaging to match undergraduate admission timelines.
+
+
+The dataset used in this project was sourced from Kaggle (Available at: https://www.kaggle.com/datasets/minalchoudhary/marketing-campaign-dataset)
